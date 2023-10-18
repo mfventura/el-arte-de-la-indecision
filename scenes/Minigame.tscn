@@ -1,0 +1,42 @@
+[gd_scene load_steps=5 format=3 uid="uid://xp10cbvetloi"]
+
+[ext_resource type="Script" path="res://scripts/Minigame.gd" id="1_vfi1c"]
+[ext_resource type="Texture2D" uid="uid://tvyd7nxk47dy" path="res://art/circulo_minigame_2.png" id="2_s8flg"]
+
+[sub_resource type="CircleShape2D" id="CircleShape2D_v8okc"]
+radius = 70.1783
+
+[sub_resource type="CircleShape2D" id="CircleShape2D_t6a73"]
+radius = 11.0454
+
+[node name="Minigame" type="Node2D"]
+script = ExtResource("1_vfi1c")
+
+[node name="KeySpawnTimer" type="Timer" parent="."]
+
+[node name="Timer" type="Timer" parent="."]
+one_shot = true
+
+[node name="MarkerSprite" type="Sprite2D" parent="."]
+position = Vector2(479, 0)
+scale = Vector2(0.65, 0.65)
+texture = ExtResource("2_s8flg")
+
+[node name="Marker" type="Area2D" parent="MarkerSprite"]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="MarkerSprite/Marker"]
+shape = SubResource("CircleShape2D_v8okc")
+
+[node name="RemoveKeys" type="Area2D" parent="."]
+position = Vector2(356, 0)
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="RemoveKeys"]
+shape = SubResource("CircleShape2D_t6a73")
+
+[node name="Keys" type="Node2D" parent="."]
+position = Vector2(890, 0)
+
+[node name="Audio" type="AudioStreamPlayer2D" parent="."]
+position = Vector2(651, 0)
+
+[connection signal="body_exited" from="RemoveKeys" to="." method="_on_marker_key_exited"]

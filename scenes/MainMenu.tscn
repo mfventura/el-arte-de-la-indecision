@@ -1,0 +1,116 @@
+[gd_scene load_steps=13 format=3 uid="uid://b3hbp16ctbg6y"]
+
+[ext_resource type="Script" path="res://scripts/MainMenu.gd" id="1_t1b04"]
+[ext_resource type="Texture2D" uid="uid://bxlh4k56f4nt2" path="res://art/MV_Jam_TitileBackground.png" id="2_isyfu"]
+[ext_resource type="Theme" uid="uid://qhg2fntqieb0" path="res://config/FontTheme.tres" id="3_lfkke"]
+[ext_resource type="PackedScene" uid="uid://fc65e621t43w" path="res://scenes/Options.tscn" id="3_lsm3n"]
+[ext_resource type="PackedScene" path="res://scenes/Credits.tscn" id="5_k5dia"]
+
+[sub_resource type="StyleBoxEmpty" id="StyleBoxEmpty_ohsli"]
+
+[sub_resource type="StyleBoxEmpty" id="StyleBoxEmpty_q5evn"]
+
+[sub_resource type="StyleBoxEmpty" id="StyleBoxEmpty_7qr3g"]
+
+[sub_resource type="StyleBoxEmpty" id="StyleBoxEmpty_xv3j2"]
+
+[sub_resource type="StyleBoxEmpty" id="StyleBoxEmpty_xm6oj"]
+
+[sub_resource type="StyleBoxEmpty" id="StyleBoxEmpty_dkpw3"]
+
+[sub_resource type="StyleBoxEmpty" id="StyleBoxEmpty_orrj4"]
+
+[node name="MainMenu" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_t1b04")
+
+[node name="Background" type="TextureRect" parent="."]
+layout_mode = 0
+offset_left = 1.0
+offset_right = 1281.0
+offset_bottom = 720.0
+texture = ExtResource("2_isyfu")
+expand_mode = 3
+
+[node name="Buttons" type="Control" parent="."]
+anchors_preset = 0
+offset_left = 208.0
+offset_top = 131.0
+offset_right = 248.0
+offset_bottom = 171.0
+
+[node name="Play" type="Button" parent="Buttons"]
+layout_mode = 2
+offset_left = -19.0
+offset_top = 54.0
+offset_right = 223.0
+offset_bottom = 162.0
+theme = ExtResource("3_lfkke")
+theme_override_styles/normal = SubResource("StyleBoxEmpty_ohsli")
+theme_override_styles/hover = SubResource("StyleBoxEmpty_q5evn")
+theme_override_styles/pressed = SubResource("StyleBoxEmpty_7qr3g")
+theme_override_styles/disabled = SubResource("StyleBoxEmpty_xv3j2")
+theme_override_styles/focus = SubResource("StyleBoxEmpty_xm6oj")
+text = "PLAY"
+
+[node name="Options" type="Button" parent="Buttons"]
+layout_mode = 0
+offset_left = -19.0
+offset_top = 178.0
+offset_right = 223.0
+offset_bottom = 286.0
+theme = ExtResource("3_lfkke")
+theme_override_styles/normal = SubResource("StyleBoxEmpty_dkpw3")
+theme_override_styles/hover = SubResource("StyleBoxEmpty_orrj4")
+theme_override_styles/pressed = SubResource("StyleBoxEmpty_7qr3g")
+theme_override_styles/disabled = SubResource("StyleBoxEmpty_xv3j2")
+theme_override_styles/focus = SubResource("StyleBoxEmpty_xm6oj")
+text = "OPTIONS"
+
+[node name="Credits" type="Button" parent="Buttons"]
+layout_mode = 0
+offset_left = -19.0
+offset_top = 302.0
+offset_right = 223.0
+offset_bottom = 410.0
+theme = ExtResource("3_lfkke")
+theme_override_styles/normal = SubResource("StyleBoxEmpty_dkpw3")
+theme_override_styles/hover = SubResource("StyleBoxEmpty_orrj4")
+theme_override_styles/pressed = SubResource("StyleBoxEmpty_7qr3g")
+theme_override_styles/disabled = SubResource("StyleBoxEmpty_xv3j2")
+theme_override_styles/focus = SubResource("StyleBoxEmpty_xm6oj")
+text = "CREDITS"
+
+[node name="Exit" type="Button" parent="Buttons"]
+layout_mode = 0
+offset_left = -17.0
+offset_top = 426.0
+offset_right = 225.0
+offset_bottom = 534.0
+theme = ExtResource("3_lfkke")
+theme_override_styles/normal = SubResource("StyleBoxEmpty_dkpw3")
+theme_override_styles/hover = SubResource("StyleBoxEmpty_orrj4")
+theme_override_styles/pressed = SubResource("StyleBoxEmpty_7qr3g")
+theme_override_styles/disabled = SubResource("StyleBoxEmpty_xv3j2")
+theme_override_styles/focus = SubResource("StyleBoxEmpty_xm6oj")
+text = "EXIT"
+
+[node name="Options" parent="." instance=ExtResource("3_lsm3n")]
+visible = false
+layout_mode = 1
+
+[node name="Audio" type="AudioStreamPlayer2D" parent="."]
+
+[node name="Credits" parent="." instance=ExtResource("5_k5dia")]
+visible = false
+layout_mode = 1
+
+[connection signal="pressed" from="Buttons/Play" to="." method="_on_play_pressed"]
+[connection signal="pressed" from="Buttons/Options" to="." method="_on_options_pressed"]
+[connection signal="pressed" from="Buttons/Credits" to="." method="_on_credits_pressed"]
+[connection signal="pressed" from="Buttons/Exit" to="." method="_on_exit_pressed"]

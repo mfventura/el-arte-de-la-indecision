@@ -1,0 +1,336 @@
+keys,es,en
+PLAY,Jugar,Play
+OPTIONS,Opciones,Options
+CREDITS,Créditos,Credits
+EXIT,Salir,Exit
+MUSIC_VOLUME,Volumen de la música,Music Volume
+FX_VOLUME,Volumen de FX,FX Volume
+SAVE,Guardar,Save
+MUTE,Silenciar,Mute
+FULL_SCREEN,Pantalla Completa,Full Screen
+LANGUAGE,Idioma,Language
+ES_ES,Español,Spanish
+EN_EN,Inglés,English
+BACK,Atrás,Back
+#EVENTS,,
+EV_1,El hambre hace rugir tu estómago como un redoble de tambor.,The hunger makes your stomach roar like a drumroll.
+EV_2,"Parece ser que los seres vivos tienen que comer de vez en cuando para sobrevivir, y tú llevas 4836285 horas sin hacerlo.","It seems that living beings need to eat from time to time to survive, and you have gone 4,836,285 hours without doing so."
+EV_3,"Ves un anuncio de pizza en la televisión, mostrando un queso derretido tentadoramente.","You see a pizza add on television, with temptingly melted cheese."
+EV_4,Sientes un vacío en el estómago que parece un agujero negro voraz.,You feel an emptiness in your stomach that seems like a voracious black hole.
+EV_5,"Tu estómago emite sonidos lovecraftnianos, recordándote que no has comido en horas.","Your stomach emits Lovecraftian sounds, reminding you that you haven't eaten in hours."
+EV_6,"No puede ser… cuando ibas a tomarte tu décimo segundo café del día, te has dado cuenta de que en realidad, desde que ha empezado la jam, siempre has estado bebiendo tilas.","It can't be... as you were about to have your twelfth coffee of the day, you realized that, since the jam started, you've always been drinking chamomile tea."
+EV_7,"No hay nada más relajante que el ronroneo de un gato. Ese rrrrr… rrrr… rrzzz… zzzzz ¡¡Mierda, te has quedado dormido!!","There's nothing more relaxing than the purring of a cat. That rrrrr... rrrr... rrzzz... zzzzz. Damn, you've fallen asleep!"
+EV_8,"Te das cuenta de que te cuesta concentrarte, tus niveles de energía casi están por el subsuelo.","You realize that it's hard for you to concentrate, and your energy levels are almost underground."
+EV_9,"Tu día ha sido agotador, y te encuentras con la necesidad urgente de recargar tu energía.","Your day has been exhausting, and you find yourself in urgent need of recharging your energy."
+EV_10,"Notas que tu mente se está volviendo lenta y pesada, tal y como decía tu ex.","You notice that your mind is becoming slow and heavy, just as your ex used to say."
+EV_11,"Acabas de caer en que al poder elegir libremente el tema de la jam, puedes aprovechar para crear un prototipo del que será el juego de tus sueños.","You just realized that by freely choosing the theme for the game jam, you can take the opportunity to create a prototype of the game of your dreams."
+EV_12,"Ya es mala suerte que la jam sea la misma semana que sale tu videojuego favorito. Lo tienes justo al lado, precintado aún… podrías probarlo un rato… nada, un par de partidas, solo…","It's just bad luck that the game jam falls on the same week your favorite video game is released. It's right there, still sealed... you could give it a try for a bit... just a couple of rounds, only..."
+EV_13,Eres un impostor. No sirves para hacer videojuegos. Lo sabes. Los otros participantes lo saben. Tu madre lo sabe. Tu hámster lo sabe…,You're an impostor. You're not cut out for making video games. You know it. The other participants know it. Your mother knows it. Your hamster knows it...
+EV_14,"Llevas ya bastante bien desarrollado el juego para la jam. Sería una lástima que ahora, de golpe, se te ocurrieran otras 37 nuevas ideas de videojuegos… oh wait!","You've already developed the game quite well for the jam. It would be a shame if, all of a sudden, you came up with another 37 new game ideas... oh wait!"
+EV_15,Te sientes atrapado en la rutina diaria y buscas recuperar tu motivación.,You feel trapped in your daily routine and seek to regain your motivation.
+EV_16,"¡Oh, no! ¡Justo ahoro una tubería ha explotado y tu cocina se está inundando!","Oh no! Right now, a pipe has burst, and your kitchen is flooding!"
+EV_17,Vas con el tiempo muy justo para presentar algo decente... Quizá podrías plagiar DESCARADAMENTE el juego de otro participante y cambiar el nombre del protagonista.,You're running very short on time to present something decent... Maybe you could shamelessly plagiarize another participant's game and just change the main character's name.
+EV_18,Quizá va siendo hora de que admitas no tener ningún talento para la ilustración. Mejor contratar a un artista 2D.,Perhaps it's time to admit that you have no talent for illustration. It might be better to hire a 2D artist.
+EV_19,Tus conocimientos musicales son tan buenos como tu capacidad de socializar con gente.,Your musical knowledge is as good as your ability to socialize with people.
+EV_20,"Lo más inteligente para un juego de jam es recurrir a assets gratuitos, pero... ¿tu ego te lo permitirá?","The smartest move for a jam game is to rely on free assets, but... will your ego allow it?"
+EV_21,"¡Rayos! Tu gato, el Señor Mortimer, ha estado mordiendo el cable de alimentación de tu PC. Parece estar bien, dejando de lado que cada vez que se relame suela un chispazo, claro.","Damn it! Your cat, Mr. Mortimer, has been chewing on the power cable of your PC. He seems fine, except for the fact that every time he licks himself, there's a little spark, of course."
+EV_22,"Los astros se han alineado y la chica de tus sueños te ha pedido una cita, pero tiene que ser hoy.","The stars have aligned, and the girl of your dreams has asked you out on a date, but it has to be today."
+EV_23,"Justo te ibas a dormir y, como un ariete destrozando un portón, una idea inspiradora invade tu mente.","You were just about to go to sleep when, like a battering ram smashing through a gate, an inspiring idea invades your mind."""
+EV_24,Tu madre te ha echado en cara que hace tres semanas que no vas a verles.,Your mother has reproached you for not visiting them in three weeks.
+EV_25,Acaban de estrenar la nueva temporada de tu serie favorita.,They just released the new season of your favorite TV series.
+EV_26,Te das cuenta de que el código que escribiste tiene un bug importante.,You realize that the code you wrote has a  bug.
+EV_27,Recibes un mensaje de un amigo que te invita a salir para relajarte un poco.,You receive a message from a friend inviting you to go out and relax for a bit.
+EV_28,"La inspiración te viene de golpe y tienes una idea brillante para un elemento del juego, pero implementarla llevará tiempo.","Inspiration strikes suddenly, and you have a brilliant idea for an element of the game, but implementing it will take time."
+EV_29,Se va la luz y te das cuenta de que no has guardado tu proyecto en un buen rato.,"The power goes out, and you realize you haven't saved your project in a while."
+EV_30,Recibes un comentario negativo sobre tu juego en las redes sociales.,You receive a negative comment about your game on social media.
+EV_31,"Descubres que una función clave del juego no funciona como debería, poniendo en peligro la jugabilidad.","You discover that a key function of the game isn't working as it should, putting the gameplay in danger."
+EV_32,Te das cuenta de que el diseño de los personajes no encaja con la temática del juego.,You realize that the character designs don't fit the theme of the game.
+EV_33,Recibes una oferta para colaborar con otro desarrollador de la jam que tiene habilidades complementarias a las tuyas.,You receive an offer to collaborate with another jam participant who has complementary skills to yours.
+EV_34,Un desafío amistoso se ha organizado entre los participantes de la jam para ver quién termina primero.,A friendly challenge has been organized among the jam participants to see who finishes first.
+EV_35,"Encuentras un recurso en internet que podría mejorar significativamente la calidad de tu juego, pero su implementación llevaría tiempo.","You find a resource on the internet that could significantly improve the quality of your game, but its implementation would take time."
+EV_36,Llega la noticia de que un miembro cercano de tu familia tiene una emergencia de salud.,You receive news that a close family member is facing a health emergency.
+EV_37,Recibes una oferta de trabajo muy bien remunerado que requiere tu atención inmediata.,You receive a well-paid job offer that requires your immediate attention.
+EV_38,"La feria anual de 'Cosecha del berberecho' que tanto esperabas se ha cancelado, dejándote con tiempo adicional.","The annual 'Cockle Harvest' fair that you were looking forward to has been canceled, leaving you with additional time."
+EV_39,Un amigo sin conocimientos se ofrece ayudarte con parte del desarrollo del juego.,A friend without expertise offers to help you with part of the game development.
+EV_40,El motor de videojuegos que estabas usando para tu juego ha añadido por sorpresa cláusulas abusivas en sus términos.,The game engine you were using for your game has surprisingly added abusive clauses to its terms.
+EV_41,Un rival de la jam contacta contigo y sugiere una colaboración para combinar tus habilidades y crear un juego más impresionante.,A jam rival contacts you and suggests collaboration to combine your skills and create a more impressive game.
+EV_42,Un fallo técnico inesperado borra parte de tu progreso en el juego.,An unexpected technical glitch erases part of your progress in the game.
+EV_43,Un rumor se propaga sobre un premio secreto para el juego más innovador que no estaba anunciado inicialmente.,A rumor spreads about a secret prize for the most innovative game that wasn't initially announced.
+EV_44,"Un gato callejero, entra por tu ventana y se pone a dormir encima de tu teclado.",A stray cat enters through your window and falls asleep on your keyboard.
+EV_45,Se anuncia un desafío de velocidad adicional: los participantes deben presentar una versión jugable de su juego en las próximas 24 horas.,An additional speed challenge is announced: participants must submit a playable version of their game in the next 24 hours.
+EV_46,Un influencer de juegos populares visita la jam y ofrece destacar algunos juegos en sus redes sociales.,A popular gaming influencer visits the jam and offers to highlight some games on their social media.
+EV_47,"Un fallo de electricidad afecta a todos los participantes, obligándolos a trabajar sin energía constante durante un tiempo.","A power outage affects all participants, forcing them to work without a constant power supply for a while."
+EV_48,Una cuenta random en las redes sociales critica duramente tu juego.,A random account on social media harshly criticizes your game.
+EV_49,"Un participante experimentado te ofrece colaborar, pero su visión choca fuertemente con la tuya.","An experienced participant offers to collaborate, but their vision clashes strongly with yours."
+EV_50,Un participante propone un concurso de chistes malos para aliviar el estrés.,A participant suggests a bad jokes contest to relieve stress.
+EV_51,Descubres que tu juego tiene un bug extraño que provoca situaciones cómicas e inesperadas.,You discover that your game has a strange bug that causes funny and unexpected situations.
+EV_52,Un participante propone una sesión de yoga rápida para relajarse antes del sprint final.,A participant suggests a quick yoga session to relax before the final sprint.
+EV_53,Descubres que tu juego tiene un efecto secundario inesperado que hace que los personajes se comuniquen en rimas.,You discover that your game has an unexpected side effect that makes characters communicate in rhymes.
+EV_54,Se anuncia un desafío de acertijos en vivo para los participantes que deseen una pausa mental.,A live riddle challenge is announced for participants who want a mental break.
+EV_55,Un participante propone una 'hora de siesta' colectiva para recargar energías antes del sprint final.,A participant suggests a collective 'nap time' to recharge energy before the final sprint.
+EV_56,Una oferta sorpresa de patrocinio ofrece recursos adicionales para los proyectos.,A surprise sponsorship offer provides additional resources for the projects.
+EV_57,"Te das cuenta de que todos los participantes de la jam, menos tú, han implementado una mecánica de “piedra, papel, tijeras” en su juego.","You realize that every participant in the jam, except for you, has implemented a 'rock, paper, scissors' mechanic in their game."
+EV_58,Un participante revela que ha encontrado una fórmula secreta para la creatividad y la vende por 50 euros.,A participant reveals they've found a secret formula for creativity and is selling it for 50 euros.
+EV_59,Una discusión acalorada estalla entre dos participantes sobre el enfoque 'arte vs. jugabilidad',A heated argument erupts between two participants over the 'art vs. gameplay' approach.
+EV_60,Un rumor infundado sugiere que todos los juegos serán evaluados por si tienen uno o más gatos incluidos.,An unfounded rumor suggests that all games will be judged based on whether they include one or more cats.
+EV_61,Se anuncia que un equipo de expertos en narrativa revisará los elementos de historia de cada juego.,It's announced that a team of narrative experts will review the story elements of each game.
+EV_62,Un participante propone una 'sesión de presentaciones relámpago' para practicar antes del evento final.,A participant suggests a 'lightning presentation session' to practice before the final event.
+EV_63,"Un visitante sorpresa, como un experto en diseño de juegos, ofrece consejos personalizados a los participantes.","A surprise visitor, like a game design expert, offers personalized advice to the participants."
+EV_64,Un participante revela que ha creado un sistema de logros virtuales para reconocer hitos importantes en los juegos.,A participant reveals they have created a virtual achievement system to recognize significant milestones in the games.
+EV_65,"Una 'lluvia de inspiración' inunda la sala de la jam, ofreciendo ideas frescas y creativas a los participantes.","A 'rain of inspiration' floods the jam room, offering fresh and creative ideas to the participants."
+EV_66,Se revela que uno de los jueces es un experto en acertijos y desafía a los participantes a incluir uno en sus juegos.,It's revealed that one of the judges is an expert in riddles and challenges participants to include one in their games.
+EV_67,Un participante revela que ha creado un generador de nombres de juegos aleatorios y sugiere que todos los participantes lo utilicen.,A participant reveals they've created a random game name generator and suggests that all participants use it.
+EV_68,Tienes tanto hambre que empiezas a ver a tu canario como si fuese un muslito de pollo frito.,You're so hungry that you start seeing your canary as if it were a fried chicken nugget.
+EV_69,"Finalmente, por un error, parece que el tema de la jam no era un tema libre, si no que el tema era “libro”. Tu juego, de ninguna forma, puede relacionarse con ese tema, así que…","Finally, due to an error, it appears that the jam theme was not a free theme, but rather the theme was ""fee."" Your game, in no way, can relate to that theme, so..."
+EV_70,Un participante sugiere una 'sesión de mindfulness' para ayudar a los desarrolladores a reducir el estrés y mantener la concentración.,A participant suggests a 'mindfulness session' to help developers reduce stress and maintain concentration.
+EV_71,"Mientras trabajabas en el juego, te das cuenta de que llevas más de dos horas desconectado porque en tu cabeza imaginabas si sobrevivirías o no a un apocalipsis zombi.","While working on the game, you realize that you've been disconnected for over two hours because in your head, you were imagining whether you would survive a zombie apocalypse or not."
+EV_72,Tu hermano pequeño quiere que le ayudes a superar un nivel de un videojuego en el que se ha atascado.,Your younger brother wants you to help him overcome a level in a video game where he's stuck.
+EV_73,Un participante sugiere una 'sesión de pruebas de accesibilidad' para ver si los juegos de la jam son o no accesibles.,A participant suggests an 'accessibility testing session' to determine whether the games in the jam are accessible or not.
+EV_74,"A medida que vas desarrollándolo, empiezas a ver que tu juego tiene mucho más potencial del que pensabas. Puedes decidir si entregas un proyecto incompleto o dejas la jam y creas el mejor juego posible.","As you develop it, you begin to see that your game has much more potential than you thought. You can decide whether to deliver an incomplete project or leave the jam and create the best game possible."
+EV_75,Encuentras un mensaje en tu correo electrónico que sugiere que alguien podría estar intentando hackear tu juego.,You find a message in your email that suggests someone might be trying to hack your game.
+EV_76,"La electricidad se va de repente, dejándote en completa oscuridad.","The electricity suddenly goes out, leaving you in complete darkness."
+EV_77,Encuentras un bug importante que amenaza con arruinar la jugabilidad del juego.,You've just found a huge bug that menace de gameplay of the project.
+EV_78,Recibes un mensaje de un amigo que te invita a salir para relajarte un rato.,You recieve a message from a friend to ask you to go out and relax a bit
+EV_79,"Te das cuenta de que te estás quedando sin café, tu fuente principal de energía.","You realize you are running out of coffee, your main source of energy."
+EV_80,Recibes una oferta para colaborar con otro desarrollador talentoso en la jam.,You recieve an offer to collaborate with another talented dev of the jam
+#DECISIONS,"Las decisiones se rellenan por orden, donde EV_1_DE_1 es la decision 1 del evento 1, EV_1_DE_2 es la decision 2 del evento 1, EV_5_DE_3 es la decision 3 del evento 5. Se puede ver la lista de eventos justo arriba.",
+EV_1_DE_1,Pedir algo de comer.,Order something to eat.
+EV_1_DE_2,Cocinar un plato de estrella michelín.,Cook a Michelin-starred dish.
+EV_1_DE_3,Alimentarse con una bolsa de snacks.,Feed yourself with a bag of snacks.
+EV_2_DE_1,Pedir comida a domicilio.,Order food for delivery.
+EV_2_DE_2,Comer el tupper sospechoso al final de la nevera.,Eat the suspicious Tupperware at the back of the fridge.
+EV_2_DE_3,Comer está sobrevalorado.,Eating is overrated.
+EV_3_DE_1,Llamar a una pizzería y pedir tu pizza favorita.,Call and order your favorite pizza.
+EV_3_DE_2,"Hacer una pizza casera desde cero, eligiendo tus ingredientes.","Make a homemade pizza from scratch, choosing your ingredients."
+EV_3_DE_3,Resistir la tentación y optar por una opción más saludable.,Resist the temptation and opt for a healthier option.
+EV_4_DE_1,Ir a un restaurante de lujo y disfrutar de un banquete gourmet.,Go to a fancy restaurant and enjoy a gourmet feast.
+EV_4_DE_2,Preparar una cena casera con los ingredientes disponibles en tu nevera.,Prepare a homemade dinner with the ingredients available in your fridge.
+EV_4_DE_3,Salir a la calle y comprar comida rápida en el puesto más cercano.,Go out and buy fast food from the nearest stall.
+EV_5_DE_1,Pedir comida a domicilio y esperar con ansias la entrega.,Order food for delivery and eagerly await its arrival.
+EV_5_DE_2,Experimentar con una nueva receta en la cocina y preparar algo diferente.,Experiment with a new recipe in the kitchen and prepare something different.
+EV_5_DE_3,Buscar en la despensa y conformarte con lo que encuentres.,Search the pantry and settle for whatever you find.
+EV_6_DE_1,Ir corriendo a comprar café.,Run to buy coffee.
+EV_6_DE_2,Seguir bebiendo tilas con lágrimas en los ojos.,Keep drinking tea with tears in your eyes.
+EV_6_DE_3,Comer café a grandos directamente.,Eat coffee grains directly.
+EV_7_DE_1,"Seguir durmiendo, ya que estamos.","Keep sleeping, why not?"
+EV_7_DE_2,Lanzar al gato por los aires y seguir trabajando.,Throw the cat and keep working.
+EV_7_DE_3,Intentar trabajar sin molestar al gato sobre tus piernas.,Try to work without disturbing the cat on your legs.
+EV_8_DE_1,Comprar un batido energético para un chute inmediato.,Buy an energy drink for an immediate boost.
+EV_8_DE_2,Salir a dar un paseo corto al aire libre para refrescar la mente.,Take a short walk outdoors to refresh your mind.
+EV_8_DE_3,Meditar durante unos minutos para recargar energías de manera tranquila.,Meditate for a few minutes to recharge peacefully.
+EV_9_DE_1,Tomarte un descanso y leer un libro para desconectar.,Take a break and read a book to disconnect.
+EV_9_DE_2,Parar para merendar.,Pause for a snack.
+EV_9_DE_3,Ver un episodio de tu serie favorita (o cinco) para relajarte.,Watch an episode (or five) of your favorite series to relax.
+EV_10_DE_1,Tomar un descanso corto y practicar ejercicios de respiración.,Take a short break and practice breathing exercises.
+EV_10_DE_2,Chutarte a proteínas y carbohidratos.,Load up on proteins and carbohydrates.
+EV_10_DE_3,Tirarte encima un vaso de agua fría para hidratarte... y castigarte por pensar en tu ex.,Pour a glass of cold water over yourself to hydrate... and punish yourself for thinking about your ex.
+EV_11_DE_1,No volverte loco y centrarte en un scope pequeño.,Don't go crazy and focus on a small scope.
+EV_11_DE_2,"Ir a por todas, ¡hemos venido a jugar!","Bet to all, we came to play!"
+EV_11_DE_3,Tratar de preparar algo jugable para la jam y continuar posteriormente.,Try to prepare something playable for the jam and continue later.
+EV_12_DE_1,Ser responsable y dedicarte totalmente a la jam.,Be responsible and dedicate yourself entirely to the jam.
+EV_12_DE_2,"Meter el juego en un cajón, tirar la llave y trabajar entre llantos.","Put the game in a drawer, throw away the key, and work through tears."
+EV_12_DE_3,Por una partida rápida no va a pasar nada...,It won't hurt to play a quick game...
+EV_13_DE_1,¡Mentira! Mi madre dice que soy el más mejor del mundo.,Lie! My mother says I'm the best in the world.
+EV_13_DE_2,A quién quiero engañar... mejor me dedico a funcionario.,Who am I kidding... I might as well become a civil official.
+EV_13_DE_3,"Procrastinar está en mi sangre, ¡pero ésta vez lo conseguiré!","Procrastination is in my blood, but this time I'll make it!"
+EV_14_DE_1,Centrarme única y exclusivamente en la jam.,Focus solely on the jam.
+EV_14_DE_2,Abrir un docs y apuntar todas las ideas para luego.,Open a document and write down all the ideas for later.
+EV_14_DE_3,Tengo la jam bastante controlada... no pasa nada por empezar una de mis nuevas ideas.,I have the jam pretty much under control... no harm in starting one of my new ideas.
+EV_15_DE_1,Probar algo nuevo o establecer un desafío personal para agregar emoción a tu día.,Try something new or set a personal challenge to add excitement to your day.
+EV_15_DE_2,Hacer 500 burpees a las 5 de la mañana.,Do 500 burpees at 05:00 in the morning.
+EV_15_DE_3,Hacer una lista de tus metas a largo plazo y visualizar el éxito.,Make a list of your long-term goals and visualize success.
+EV_16_DE_1,Llamar al fontanero de urgencia.,Call the emergency plumber.
+EV_16_DE_2,Tratar de arreglarlo tú mismo.,Try to fix it yourself.
+EV_16_DE_3,Ignorar el problema. Así estarás fresquito mientras trabajas.,Ignore the problem. You'll be fresh while you work.
+EV_17_DE_1,¡No! Soy legal bueno. Jamás cometeré un delito.,"No! I'm legal-good, I'll never commit a crime."
+EV_17_DE_2,"Claro, nadie se va a dar cuenta...","Sure, no one will notice..."
+EV_17_DE_3,Dejar que una moneda y la suerte decidan.,Throw a coin and let luck decide.
+EV_18_DE_1,Mi ego me lo impide (además soy pobre).,"My ego prevents it (plus, I'm broke)."
+EV_18_DE_2,Contratar a un artista 2D sin portfolio.,Hire a 2D artist with no portfolio.
+EV_18_DE_3,Contratar a un artista 2d con buen portfolio.,Hire a 2D artist with a good portfolio.
+EV_19_DE_1,Grabarte tocando la flauta que tenías en primaria.,Record yourself playing the flute you had in primary school.
+EV_19_DE_2,Contratar a un músico.,Hire a musician.
+EV_19_DE_3,Buscar assets gratuitos de música.,Look for free music assets.
+EV_20_DE_1,"Evidentemente, soy práctico. Recurrir a assets será lo mejor.","Obviously, I'm practical. Resorting to assets will be the best."
+EV_20_DE_2,¡JAMÁS! ¡Mi juego es 100% mío! Miiii tesssssssorooo.,NEVER! My game is 100% mine! My preciousssss.
+EV_20_DE_3,"Me lo plantearé más tarde, a ver si me da tiempo.","I'll consider it later, see if I have time."
+EV_21_DE_1,Llevarle al veterinario.,Take the cat to the vet.
+EV_21_DE_2,Acariciarle con un guante de goma.,Pet him with a rubber glove.
+EV_21_DE_3,"No pasa nada, el pelo de punta le queda bien.","It's okay, the spiked fur looks good on him."
+EV_22_DE_1,Imposible. La jam es lo primero.,Impossible. The jam comes first.
+EV_22_DE_2,A la mierda la jam.,To hell with the jam.
+EV_22_DE_3,Como soy precoz puedo tener una cita rápida y volver al trabajo.,"Since I'm precocious, I can have a quick date and get back to work."
+EV_23_DE_1,Aprovechar el momento de inspiración y seguir trabajando.,Seize the moment of inspiration and keep working.
+EV_23_DE_2,Ir a dormir y confiar en que mañana recordarás tu nueva idea.,Go to sleep and trust that you'll remember your new idea tomorrow.
+EV_23_DE_3,Desarrollar más la idea en tu mente hasta dormirte.,Develop the idea more in your mind until you fall asleep.
+EV_24_DE_1,"Por una semana más, no pasa nada.","For one more week, there will be no problem."
+EV_24_DE_2,Ir a verlos. No cuesta nada.,Go see them. It won't cost anything.
+EV_24_DE_3,Ir a verlos con el portátil bajo el brazo.,Go see them with your laptop under your arm.
+EV_25_DE_1,Ver algún episodio mientras trabajas.,Watch an episode while working.
+EV_25_DE_2,Aplazar la serie hasta terminar la jam.,Postpone the series until the jam is finished.
+EV_25_DE_3,Ver 3 episodios seguidos para quitarte el mono y seguir trabajando.,Watch 3 episodes in a row to get calm and keep working later.
+EV_26_DE_1,Intentar solucionar el bug rápidamente.,Try to fix the bug quickly.
+EV_26_DE_2,Ignorar el bug y seguir trabajando en otras partes del juego.,Ignore the bug and keep working on other parts of the game.
+EV_26_DE_3,Buscar ayuda en línea para encontrar una solución.,Seek online help to find a solution.
+EV_27_DE_1,Aceptar la invitación y desconectar del juego por un rato.,Accept the invitation and take a break from the game for a while.
+EV_27_DE_2,Rechazar la invitación y seguir trabajando.,Decline the invitation and keep working.
+EV_27_DE_3,Proponer posponer la quedada para más tarde.,Propose postponing the meetup for later.
+EV_28_DE_1,Priorizar la idea y dedicar el tiempo necesario.,Prioritize the idea and dedicate the necessary time.
+EV_28_DE_2,Anotar la idea para implementarla más tarde si da tiempo.,Note the idea to implement later if there's time.
+EV_28_DE_3,Descartar la idea y continuar con el desarrollo actual.,Discard the idea and continue with the current development.
+EV_29_DE_1,Entrar en pánico.,"Ok, let's panic."
+EV_29_DE_2,Respirar profundamente y retomar el proyecto por el último guardado.,Take a deep breath and resume the project from the last save.
+EV_29_DE_3,Tirar el ordenador por la ventana.,Throw the computer out the window.
+EV_30_DE_1,Crearte una cuenta falsa para poner a parir al hater y a su madre.,Create a fake account to trash the hater and his mother.
+EV_30_DE_2,Aceptar la crítica constructiva y adaptarla a tu juego.,Accept constructive criticism and adapt it to your game.
+EV_30_DE_3,Responder al comentario defendiendo tu trabajo y explicando tus decisiones de diseño.,Respond to the comment defending your work and explaining your design decisions.
+EV_31_DE_1,Detener de inmediato el desarrollo para solucionar el problema.,Stop development immediately to fix the problem.
+EV_31_DE_2,Ignorar el problema temporalmente y continuar trabajando en otras áreas.,Temporarily ignore the problem and continue working on other areas.
+EV_31_DE_3,Buscar soluciones temporales.,Look for temporary solutions.
+EV_32_DE_1,Rehacer los diseños para que se ajusten mejor.,Redo the designs to better fit.
+EV_32_DE_2,Dejar los diseños como están.,Leave the designs as they are.
+EV_32_DE_3,Empezar un proyecto de nuevo que se adapte al diseño de los personajes ya creados.,Start a new project that aligns with the already created character designs.
+EV_33_DE_1,Aceptar la colaboración y trabajar juntos para acelerar el desarrollo.,Accept the collaboration and work together to speed up development.
+EV_33_DE_2,¡NUNCA! ¡Mi juego es mío!,NEVER! My game is mine!
+EV_33_DE_3,Rechazar amablemente la oferta.,Politely reject the offer.
+EV_34_DE_1,Enfocarte en terminar el juego lo más rápido posible para ganar el desafío.,Focus on finishing the game as quickly as possible to win the challenge.
+EV_34_DE_2,Ignorar el desafío y seguir trabajando a tu propio ritmo.,Ignore the challenge and continue working at your own pace.
+EV_34_DE_3,"Unirte al desafío para motivarte, pero sin sacrificar la calidad del juego.","Join the challenge to motivate yourself, but without sacrificing the quality of the game."
+EV_35_DE_1,"Integrar el recurso, aunque esto signifique no llegar a tiempo a la fecha de entrega.","Integrate the resource, even if it means not meeting the deadline."
+EV_35_DE_2,Prescindir del recurso.,Dispense with the resource.
+EV_35_DE_3,"Implementar parcialmente el recurso, adaptándolo para que se ajuste al plazo de entrega.","Partially implement the resource, adapting it to fit the delivery deadline."
+EV_36_DE_1,Priorizar la familia y dedicar tiempo a apoyar y cuidar a tu ser querido.,Prioritize family and dedicate time to support and care for your loved one.
+EV_36_DE_2,Intentar equilibrar el tiempo entre el juego y la familia.,Try to balance time between the game and family.
+EV_36_DE_3,"Ignorar la urgencia. En el mejor de los casos, la muerte de tu familiar valdrá la victoria en la jam.","Ignore the urgency. At best, your family member's death will be worth the victory in the jam."
+EV_37_DE_1,Aceptar la oferta de trabajo.,Accept the job offer.
+EV_37_DE_2,Negociar con RRHH para encontrar un compromiso que te permita participar en la jam mientras trabajas.,Negotiate with HR to find a compromise that allows you to participate in the jam while working.
+EV_37_DE_3,Rechazar la oferta de trabajo y dedicarte por completo a la jam.,Reject the job offer and fully dedicate yourself to the jam.
+EV_38_DE_1,Aprovechar el tiempo extra para perfeccionar aspectos clave del juego.,Use the extra time to refine key aspects of the game.
+EV_38_DE_2,"Celebrar la cancelación del evento, tomarte un descanso y volver a la jam con energías renovadas.","Celebrate the event's cancellation, take a break, and return to the jam with renewed energy."
+EV_38_DE_3,Llorar en una esquina junto a tu disfraz de berberecho.,Cry in a corner with your cockle costume.
+EV_39_DE_1,Aceptar la ayuda y colaborar con tu amigo.,Accept the help and collaborate with your friend.
+EV_39_DE_2,"Agradecer la oferta, pero preferir trabajar en solitario para mantener el control creativo.",Thank for the offer but prefer to work alone to maintain creative control.
+EV_39_DE_3,Antes le confiarías tu proyecto a tu peor enemigo.,You'd trust your project to your worst enemy before your friend.
+EV_40_DE_1,"No pasa nada, ni en mis mejores sueños lograré generar tanto dinero como para que me afecten.","No problem, neither in my wildest dreams, I won't generate as much money as to be affected."
+EV_40_DE_2,¿¡QUÉ!? ¡Cambio ahora mismo de motor!,WHAT!? Change the engine right now!
+EV_40_DE_3,Seguir para adelante con tu proyecto en el mismo motor.,Move forward with your project in the same engine.
+EV_41_DE_1,Aceptar la colaboración y trabajar juntos.,Accept the collaboration and work together.
+EV_41_DE_2,"Nop, no me fío.","Nope, don't trust him."
+EV_41_DE_3,Aceptar la colaboración en su juego y boicotearlo en secreto mientras sigues trabajando en el tuyo.,Accept the collaboration in his game and secretly sabotage it while continuing to work on yours.
+EV_42_DE_1,Restaurar una versión anterior de tu trabajo.,Restore a previous version of your work.
+EV_42_DE_2,Tomar un descanso para despejar la mente antes de abordar el problema.,Take a break to clear your mind before tackling the problem.
+EV_42_DE_3,Enfrentar directamente el problema y tratar de solucionarlo rápidamente.,Confront the problem directly and try to solve it quickly.
+EV_43_DE_1,Investigar si el rumor es cierto y adaptar tu juego para ser más innovador.,Investigate if the rumor is true and adapt your game to be more innovative.
+EV_43_DE_2,Ignorar el rumor y continuar con tu enfoque original.,Ignore the rumor and continue with your original approach.
+EV_43_DE_3,Intentar descubrir quién inició el rumor y por qué.,Try to discover who started the rumor and why.
+EV_44_DE_1,Darle de comer y adoptarlo como mascota.,Feed it and adopt it as a pet.
+EV_44_DE_2,Tomar un descanso para jugar un poco con el gato y luego volver al trabajo.,Take a break to play with the cat and then get back to work.
+EV_44_DE_3,Echar al gato y centrarte en tu trabajo.,Kick the cat out and focus on your work.
+EV_45_DE_1,Iterar el proyecto y trabajar intensamente para cumplir con el desafío.,Iterate on the project and work intensely to meet the challenge.
+EV_45_DE_2,Ignorar el desafío y seguir con tu plan original de desarrollo.,Ignore the challenge and continue with your original development plan.
+EV_45_DE_3,Preguntar a otros participantes si están dispuestos a colaborar para cumplir el desafío.,Ask other participants if they are willing to collaborate to meet the challenge.
+EV_46_DE_1,Trabajar intensamente para impresionar al influencer.,Work intensively to impress the influencer.
+EV_46_DE_2,Ignorar la presencia del influencer y centrarte en tu visión original.,Ignore the presence of the influencer and focus on your original vision.
+EV_46_DE_3,Intentar establecer una colaboración con el influencer para promover futuros proyectos.,Try to establish collaboration with the influencer to promote future projects.
+EV_47_DE_1,Utilizar dispositivos móviles.,Use mobile devices.
+EV_47_DE_2,Tomar un descanso y esperar a que se restaure la electricidad.,Take a break and wait for the electricity to be restored.
+EV_47_DE_3,"Trabajar con papel y lápiz, hasta que se restablezca la electricidad.",Work with paper and pencil until the electricity is back.
+EV_48_DE_1,Agradecer por la retroalimentación y trabajar en mejoras.,Expressing gratitude for the feedback and working on improvements.
+EV_48_DE_2,Ignorar la crítica y confiar en tu visión original.,Ignoring criticism and trusting your original vision.
+EV_48_DE_3,Cagarse en sus muertos.,Shit on his death ones
+EV_49_DE_1,Agradecer la oferta y trabajar en solitario.,Thanking for the offer but working alone.
+EV_49_DE_2,Negociar una colaboración que respete ambas visiones.,Negotiating an agreemen that respects both perspectives.
+EV_49_DE_3,"Seguro que él sabe más, así que seguiré su consejo.","Sure that he knows more, so let's following his advice."
+EV_50_DE_1,Unirte al concurso y mostrar tus conocimientos en humor negro.,Joining the contest and showcasing your knowledge in dark humor.
+EV_50_DE_2,Ignorar a esos idiotas y continuar con tu trabajo.,Ignoring those fools and continuing with your work.
+EV_50_DE_3,Criticar el proyecto de otro participante como chiste malo.,Criticizing another participant's project as a bad joke.
+EV_51_DE_1,Trabajar rápidamente para corregir el bug.,Working quickly to fix the bug.
+EV_51_DE_2,Mantener el bug como una característica divertida para que todos vean lo genuinamente divertido que eres.,Keeping the bug as a funny feature for everyone to see how genuinely humorous you are.
+EV_51_DE_3,Utilizar el bug como inspiración para agregar elementos humorísticos adicionales al juego.,Using the bug as inspiration to add additional humorous elements to the game.
+EV_52_DE_1,Unirte a la sesión de yoga para despejar la mente.,Joining the yoga session to clear your mind.
+EV_52_DE_2,Ignorar la invitación y concentrarte en tu trabajo.,Ignoring the invitation and focusing on your work.
+EV_52_DE_3,Organizar una breve sesión de meditación para aquellos que prefieran algo más tranquilo.,Organizing a brief meditation session for those who prefer something more calm.
+EV_53_DE_1,Trabajar para corregir el error antes de la presentación.,Working to fix the error before the presentation.
+EV_53_DE_2,Integrar el efecto de rimas como una característica única.,Integrating rhyme effects as a unique feature.
+EV_53_DE_3,"Con los dedos de las manos y los dedos de los pies, mis coj**** y mi p*** todo suman veintitrés.","Roses are red, violets are blue, this game for the jam, is a *******"
+EV_54_DE_1,Participar en el desafío para refrescar tu mente.,Participating in the challenge to refresh your mind.
+EV_54_DE_2,Seguir con tu juego.,Continuing with your game.
+EV_54_DE_3,Pensar el acertijo más complejo posible para quedar como el genio vencedor del desafío.,Thinking of the most complex riddle possible to appear as the victorious genius of the challenge.
+EV_55_DE_1,Unirte a la siesta para descansar.,Joining the nap to rest.
+EV_55_DE_2,Ignorar la propuesta y trabajar en tu juego.,Ignoring the proposal and continue working on your game.
+EV_55_DE_3,Organizar una actividad relajante alternativa para aquellos que prefieran no dormir.,Organizing an alternative relaxing activity for those who prefer not to sleep.
+EV_56_DE_1,Aprovechar la oferta para mejorar tu juego.,Taking advantage of the offer to improve your game.
+EV_56_DE_2,Ignorar la oferta y confiar en tu trabajo.,Ignoring the offer and trusting in your work.
+EV_56_DE_3,Compartir la oferta con otros participantes para impulsar la creatividad en general.,Sharing the offer with other participants to boost overall creativity.
+EV_57_DE_1,¿Y si esa mecánica era obligatoria y no te has dado cuenta? Mejor implementarla.,"What if that mechanic was mandatory, and you didn't realize it? Better to implement it."
+EV_57_DE_2,La originalidad brilla por su ausencia. Seguir con tus mismas mecánicas.,Originality is lacking. Continuing with your main mechanics.
+EV_57_DE_3,Añadir la mecánica aunque no tenga cabida en tu juego.,Adding the mechanic even if it doesn't fit into your game.
+EV_58_DE_1,Pagar la fórmula y aplicarla a tu juego.,Paying for the formula and applying it to your game.
+EV_58_DE_2,Ignorar la revelación y confiar en tu propio proceso creativo.,Ignoring the revelation and trusting your own creative process.
+EV_58_DE_3,Organizar un taller para compartir otros métodos creativos (y gratuitos) entre los participantes.,Organizing a workshop to share other creative (and free) methods among participants.
+EV_59_DE_1,Participar en la discusión y tratar de mediar.,Participating in the discussion and trying to mediate.
+EV_59_DE_2,Ignorar la discusión y enfocarte en tu proyecto.,Ignoring the discussion and focusing on your project.
+EV_59_DE_3,Imponer con condescendencia tu opinión y verdad absoluta.,Imposing your opinion and absolute truth condescendingly.
+EV_60_DE_1,Modificar tu juego para incluir todos los gatos posibles.,Modifying your game to include all possible cats.
+EV_60_DE_2,Sin problema. Tu juego estaba protagonizado por gatos. De hecho está creado por gatos.,"No problem. Your game was starring cats. In fact, it's created by cats."
+EV_60_DE_3,Los gatos te dan tanta alergia que solo pensar en ello estornudo como un loco. Ignorar el rumor.,Cats give you so much allergy that just thinking about it makes me sneeze like crazy. Ignoring the rumor.
+EV_61_DE_1,Refinar la narrativa de tu juego para que sea el elemento que más destaque.,Refining the narrative of your game to make it the standout element.
+EV_61_DE_2,Ignorar el anuncio y seguir con tu plan original de desarrollo.,Ignoring the announcement and sticking to your original development plan.
+EV_61_DE_3,Organizar una sesión de intercambio de consejos sobre narrativa entre los participantes.,Organizing a session to exchange narrative advice among participants.
+EV_62_DE_1,Participar en la sesión.,Participating in the session.
+EV_62_DE_2,Ignorar la actividad.,Ignoring the activity.
+EV_62_DE_3,Preparar una presentación a ritmo de hip-hop underground de los 90.,Preparing a presentation with a 90s underground hip-hop rhythm.
+EV_63_DE_1,Aceptar los consejos y aplicar ajustes según la retroalimentación recibida.,Accepting advice and making adjustments based on received feedback.
+EV_63_DE_2,Ignorar la oferta y confiar en tu visión original.,Ignoring the offer and trusting your original vision.
+EV_63_DE_3,Darle tú consejos al experto.,Giving advice to the expert.
+EV_64_DE_1,Colaborar con el participante para integrar el sistema de logros en tu juego.,Collaborating with the participant to integrate the achievements system into your game.
+EV_64_DE_2,Felicitarle y seguir con lo tuyo.,Congratulating him and continuing with your work.
+EV_64_DE_3,Plagiar descarademente la mecánica.,Blatantly plagiarizing the mechanic.
+EV_65_DE_1,Aprovechar la lluvia de inspiración para mejorar aspectos de tu juego.,Taking advantage of the inspiration to improve aspects of your game.
+EV_65_DE_2,Ignorar la fiebre inspiracional y seguir con lo tuyo.,Ignoring the inspirational fever and sticking to your work.
+EV_65_DE_3,Organizar una sesión de intercambio de ideas.,Organizing an idea exchange session.
+EV_66_DE_1,Aceptar el desafío y agregar un acertijo ingenioso a tu juego.,Accepting the challenge and adding a clever riddle to your game.
+EV_66_DE_2,"Pensar acertijos se te da peor incluso que resolverlos, así que mejor obviar el desafío.","Thinking up riddles is even worse for you than solving them, so better to skip the challenge."
+EV_66_DE_3,Agregar un acertijo imposible de resolver.,Adding an impossible-to-solve riddle.
+EV_67_DE_1,Utilizar el generador de nombres para obtener inspiración para el título de tu juego.,Using the name generator for inspiration for your game's title.
+EV_67_DE_2,Ignorar la sugerencia. Se te ha ocurrido un nombre buenísimo. O eso dice tu madre.,Ignoring the suggestion. You've come up with a great name. Or so your grandma says.
+EV_67_DE_3,No me fio ni un pelo. Seguro que es un virus.,I don't trust it one bit. It's probably a virus.
+EV_68_DE_1,Probar si también sabe como un pollo frito.,Testing if it tastes like fried chicken.
+EV_68_DE_2,Parar para comer algo.,Stopping to eat something.
+EV_68_DE_3,Ignorar que tu estómago se ha convertido en un agujero negro y seguir trabajando.,Ignoring that your stomach has become a black hole and continuing to work.
+EV_69_DE_1,Pongo la palabra 'Libro' en el título y ya está.,Putting the word 'fee' in the title and that's it.
+EV_69_DE_2,Rehago todo el juego para adaptarme al tema.,Revamping the entire game to fit the theme.
+EV_69_DE_3,"Intento adaptar como puedo mi juego a ese tema, aunque sea un completo sinsentido.","Trying to adapt your game to that theme, even if it's complete nonsense."
+EV_70_DE_1,Participar en la sesión para un descanso mental.,Participating in the session for a mental break.
+EV_70_DE_2,Mejor que no. Este mes ya te has apuntado al curso de Llados.,"Better not. This month, you've already signed up for a cryptobro's course."
+EV_70_DE_3,Ignorar la propuesta. El mindfulness es tan real como el horóscopo.,Ignoring the proposal. Mindfulness is as real as the horoscope.
+EV_71_DE_1,Ponerte a trabajar como un loco para recuperar el tiempo perdido.,Working like crazy to make up for lost time.
+EV_71_DE_2,"Vaya pregunta más absurda, evidentemente sobreviviría.","What an absurd question, obviously, you would survive."
+EV_71_DE_3,En un apocalipsis zombi estoy tan muerto como mi juego en la jam.,"In a zombie apocalypse, you're as dead as your game in the jam."
+EV_72_DE_1,Imposible. El proyecto es lo primero.,Impossible. The project comes first.
+EV_72_DE_2,Decirle que 'ahora vas' (e ir seis horas más tarde).,Telling him to 'go now' (and going six hours later).
+EV_72_DE_3,Tu deber como hermano mayor es ayudar a tu mono a superar cualquier desafío. Por supuesto que vas.,"Your duty as an older brother is to help your monkey overcome any challenge. Of course, you're going."
+EV_73_DE_1,Participar en la sesión para mejorar la accesibilidad de tu juego.,Participating in the session to improve your game's accessibility.
+EV_73_DE_2,Ignorar la actividad y centrarte en otros aspectos de desarrollo.,Ignoring the activity and focusing on other development aspects.
+EV_73_DE_3,"Pedirle a tu hermano que pruebe tu juego. Si él puede, cualquiera puede.","Asking your brother to try your game. If he can, anyone can."
+EV_74_DE_1,Es mejor bajar de las nubes y seguir centrado en la jam.,It's better to come down to earth and stay focused on the jam.
+EV_74_DE_2,Tu juego puede ser la gallina de los huevos de oro. Ignorar la jam y centrarte en él el tiempo que haga falta.,Your game could be the golden goose. Ignoring the jam and focusing on it as long as necessary.
+EV_74_DE_3,Ambos puntos pueden ser compatibles. Presentar un producto mínimo viable para la jam y seguir con el juego después.,Both points can be compatible. Presenting a minimum viable product for the jam and continuing with the game afterward.
+EV_75_DE_1,Reforzar la seguridad del juego.,Strengthening the game's security.
+EV_75_DE_2,Ignorar el mensaje y asumir que es spam.,Ignoring the message and assuming it's spam.
+EV_75_DE_3,Rastrear la dirección IP del remitente para hackearle a él.,Tracking the sender's IP address to hack him.
+EV_76_DE_1,Buscar una linterna y velas.,Finding a flashlight and candles.
+EV_76_DE_2,Esperar unos minutos a ver si vuelve la electricidad.,Waiting a few minutes to see if the electricity comes back.
+EV_76_DE_3,"Continuar trabajando a ciegas, confiando en la batería de tu ordenador portátil.","Continuing to work blindly, trusting your laptop's battery."
+EV_77_DE_1,Priorizar la corrección del bug antes que cualquier otra tarea.,Prioritizing bug correction over any other task.
+EV_77_DE_2,Dejar el bug para después y seguir trabajando en nuevas características.,Putting the bug off until later and continuing to work on new features.
+EV_77_DE_3,Hacer una copia de seguridad y experimentar con soluciones sin detener el trabajo principal.,Backing up and experimenting with solutions without stopping the main work.
+EV_78_DE_1,Aceptar la invitación y tomarte un descanso.,Accepting the invitation and taking a break.
+EV_78_DE_2,Responder que solo puedes salir después de terminar una tarea importante.,Saying you can only go out after finishing an important task.
+EV_78_DE_3,Ya saldrás cuando seas millonario y tengas una penthouse en Dubai.,You'll go out when you're a millionaire and have a penthouse in Dubai.
+EV_79_DE_1,Hacer una pausa para preparar una cafetera.,Taking a break to prepare a coffee.
+EV_79_DE_2,Continuar trabajando sin café.,Continuing to work without coffee.
+EV_79_DE_3,Sustituir la cafeína por cocaína.,Replacing caffeine with cocaine.
+EV_80_DE_1,Aceptar la colaboración y trabajar juntos en SU juego.,Accepting the collaboration and working together on HIS game.
+EV_80_DE_2,Rechazar la oferta y seguir trabajando en solitario.,Declining the offer and continuing to work alone.
+EV_80_DE_3,Aceptar la colaboración y trabajar juntos en TU juego.,Accepting the collaboration and working together on YOUR game.

@@ -1,0 +1,126 @@
+[gd_scene load_steps=5 format=3 uid="uid://c60787iwwh0x8"]
+
+[ext_resource type="Script" path="res://scripts/Event.gd" id="1_wc0h6"]
+[ext_resource type="Texture2D" uid="uid://dw8cxa7hfjgus" path="res://art/event_panel.png" id="2_8wf6m"]
+[ext_resource type="Theme" uid="uid://qhg2fntqieb0" path="res://config/FontTheme.tres" id="2_daaxx"]
+[ext_resource type="Texture2D" uid="uid://cjlohu7ammt82" path="res://art/decision_panel.png" id="3_3adix"]
+
+[node name="Event" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_wc0h6")
+
+[node name="Title" type="TextureRect" parent="."]
+layout_mode = 1
+offset_left = 299.0
+offset_top = 30.0
+offset_right = 1574.0
+offset_bottom = 708.0
+scale = Vector2(0.5, 0.5)
+texture = ExtResource("2_8wf6m")
+
+[node name="Title" type="Label" parent="Title"]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_left = 7.0
+offset_top = 8.0
+offset_right = -7.0
+offset_bottom = -6.0
+grow_horizontal = 2
+grow_vertical = 2
+theme = ExtResource("2_daaxx")
+theme_override_colors/font_color = Color(0, 0, 0, 1)
+text = "Some Text"
+horizontal_alignment = 1
+vertical_alignment = 1
+autowrap_mode = 2
+
+[node name="Decisions" type="HBoxContainer" parent="."]
+layout_mode = 0
+offset_left = 356.0
+offset_top = 377.0
+offset_right = 1429.0
+offset_bottom = 886.0
+scale = Vector2(0.5, 0.5)
+
+[node name="Decision1" type="TextureButton" parent="Decisions"]
+layout_mode = 2
+size_flags_horizontal = 4
+size_flags_vertical = 4
+texture_normal = ExtResource("3_3adix")
+
+[node name="Title" type="Label" parent="Decisions/Decision1"]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_left = 7.0
+offset_top = 8.0
+offset_right = -7.0
+offset_bottom = -6.0
+grow_horizontal = 2
+grow_vertical = 2
+theme = ExtResource("2_daaxx")
+theme_override_colors/font_color = Color(0, 0, 0, 1)
+text = "Some Text"
+horizontal_alignment = 1
+vertical_alignment = 1
+autowrap_mode = 2
+
+[node name="Decision2" type="TextureButton" parent="Decisions"]
+layout_mode = 2
+size_flags_horizontal = 4
+size_flags_vertical = 4
+texture_normal = ExtResource("3_3adix")
+
+[node name="Title" type="Label" parent="Decisions/Decision2"]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_left = 7.0
+offset_top = 8.0
+offset_right = -7.0
+offset_bottom = -6.0
+grow_horizontal = 2
+grow_vertical = 2
+theme = ExtResource("2_daaxx")
+theme_override_colors/font_color = Color(0, 0, 0, 1)
+text = "Some Text"
+horizontal_alignment = 1
+vertical_alignment = 1
+autowrap_mode = 2
+
+[node name="Decision3" type="TextureButton" parent="Decisions"]
+layout_mode = 2
+size_flags_horizontal = 4
+size_flags_vertical = 4
+texture_normal = ExtResource("3_3adix")
+
+[node name="Title" type="Label" parent="Decisions/Decision3"]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_left = 7.0
+offset_top = 8.0
+offset_right = -7.0
+offset_bottom = -6.0
+grow_horizontal = 2
+grow_vertical = 2
+theme = ExtResource("2_daaxx")
+theme_override_colors/font_color = Color(0, 0, 0, 1)
+text = "Some Text"
+horizontal_alignment = 1
+vertical_alignment = 1
+autowrap_mode = 2
+
+[connection signal="pressed" from="Decisions/Decision1" to="." method="_on_decision_1_pressed"]
+[connection signal="pressed" from="Decisions/Decision2" to="." method="_on_decision_1_pressed"]
+[connection signal="pressed" from="Decisions/Decision3" to="." method="_on_decision_1_pressed"]

@@ -1,0 +1,63 @@
+[gd_scene load_steps=2 format=3 uid="uid://fc65e621t43w"]
+
+[ext_resource type="Script" path="res://scripts/Options.gd" id="1_kyhh3"]
+
+[node name="Options" type="Control" node_paths=PackedStringArray("language_button", "fullscreen_button")]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_right = -1280.0
+offset_bottom = -720.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_kyhh3")
+language_button = NodePath("VContainer/LanguageButton")
+fullscreen_button = NodePath("VContainer/FullScreenButton")
+
+[node name="VContainer" type="VBoxContainer" parent="."]
+layout_mode = 0
+offset_right = 300.0
+offset_bottom = 46.0
+
+[node name="MusicLabel" type="Label" parent="VContainer"]
+layout_mode = 2
+text = "MUSIC_VOLUME"
+
+[node name="MusicSlider" type="HSlider" parent="VContainer"]
+layout_mode = 2
+
+[node name="FXLabel" type="Label" parent="VContainer"]
+layout_mode = 2
+text = "FX_VOLUME"
+
+[node name="FXSlider" type="HSlider" parent="VContainer"]
+layout_mode = 2
+
+[node name="MuteButton" type="CheckButton" parent="VContainer"]
+layout_mode = 2
+text = "MUTE"
+
+[node name="FullScreenButton" type="CheckButton" parent="VContainer"]
+layout_mode = 2
+text = "FULL_SCREEN"
+
+[node name="LanguageLabel" type="Label" parent="VContainer"]
+layout_mode = 2
+text = "LANGUAGE"
+
+[node name="LanguageButton" type="Button" parent="VContainer"]
+layout_mode = 2
+text = "CURRENT"
+
+[node name="BackButton" type="Button" parent="."]
+layout_mode = 0
+offset_left = 534.0
+offset_top = 421.0
+offset_right = 792.0
+offset_bottom = 532.0
+text = "BACK"
+
+[connection signal="toggled" from="VContainer/FullScreenButton" to="." method="_on_full_screen_button_toggled"]
+[connection signal="pressed" from="VContainer/LanguageButton" to="." method="_on_language_button_pressed"]
+[connection signal="pressed" from="BackButton" to="." method="_on_back_button_pressed"]

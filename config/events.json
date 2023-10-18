@@ -1,0 +1,4771 @@
+{
+  "events": [
+	{
+	  "event": "EV_1",
+	  "decisions": [
+		{
+		  "text": "EV_1_DE_1",
+		  "consequences": [
+			{
+			  "key": "hunger",
+			  "value": "++"
+			},
+			{
+			  "key": "money",
+			  "value": -15
+			}
+		  ]
+		},
+		{
+		  "text": "EV_1_DE_2",
+		  "consequences": [
+			{
+			  "key": "hunger",
+			  "value": "++"
+			},
+			{
+			  "key": "time",
+			  "value": 50
+			}
+		  ]
+		},
+		{
+		  "text": "EV_1_DE_3",
+		  "consequences": [
+			{
+			  "key": "hunger",
+			  "value": "+"
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "event": "EV_2",
+	  "decisions": [
+		{
+		  "text": "EV_2_DE_1",
+		  "consequences": [
+			{
+			  "key": "hunger",
+			  "value": "++"
+			},
+			{
+			  "key": "money",
+			  "value": -15
+			}
+		  ]
+		},
+		{
+		  "text": "EV_2_DE_2",
+		  "consequences": [
+			{
+			  "key": "hunger",
+			  "value": "+"
+			},
+			{
+			  "key": "energy",
+			  "value": "-"
+			},
+			{
+			  "key": "motivation",
+			  "value": "-"
+			}
+		  ]
+		},
+		{
+		  "text": "EV_2_DE_3",
+		  "consequences": [
+			{
+			  "key": "hunger",
+			  "value": "--"
+			},
+			{
+			  "key": "energy",
+			  "value": "-"
+			},
+			{
+			  "key": "motivation",
+			  "value": "-"
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "event": "EV_3",
+	  "decisions": [
+		{
+		  "text": "EV_3_DE_1",
+		  "consequences": [
+			{
+			  "key": "hunger",
+			  "value": "++"
+			},
+			{
+			  "key": "money",
+			  "value": -10
+			},
+			{
+			  "key": "motivation",
+			  "value": "++"
+			}
+		  ]
+		},
+		{
+		  "text": "EV_3_DE_2",
+		  "consequences": [
+			{
+			  "key": "hunger",
+			  "value": "++"
+			},
+			{
+			  "key": "motivation",
+			  "value": "+"
+			},
+			{
+			  "key": "time",
+			  "value": 15
+			}
+		  ]
+		},
+		{
+		  "text": "EV_3_DE_3",
+		  "consequences": [
+			{
+			  "key": "hunger",
+			  "value": "+"
+			},
+			{
+			  "key": "time",
+			  "value": 10
+			},
+			{
+			  "key": "motivation",
+			  "value": "-"
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "event": "EV_4",
+	  "decisions": [
+		{
+		  "text": "EV_4_DE_1",
+		  "consequences": [
+			{
+			  "key": "hunger",
+			  "value": "++"
+			},
+			{
+			  "key": "motivation",
+			  "value": "+"
+			},
+			{
+			  "key": "money",
+			  "value": -100
+			},
+			{
+			  "key": "time",
+			  "value": 30
+			}
+		  ]
+		},
+		{
+		  "text": "EV_4_DE_2",
+		  "consequences": [
+			{
+			  "key": "hunger",
+			  "value": "+"
+			},
+			{
+			  "key": "time",
+			  "value": 15
+			},
+			{
+			  "key": "motivation",
+			  "value": "-"
+			}
+		  ]
+		},
+		{
+		  "text": "EV_4_DE_3",
+		  "consequences": [
+			{
+			  "key": "hunger",
+			  "value": "+"
+			},
+			{
+			  "key": "money",
+			  "value": -5
+			},
+			{
+			  "key": "time",
+			  "value": 10
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "event": "EV_5",
+	  "decisions": [
+		{
+		  "text": "EV_5_DE_1",
+		  "consequences": [
+			{
+			  "key": "hunger",
+			  "value": "++"
+			},
+			{
+			  "key": "money",
+			  "value": -20
+			},
+			{
+			  "key": "motivation",
+			  "value": "+"
+			}
+		  ]
+		},
+		{
+		  "text": "EV_5_DE_2",
+		  "consequences": [
+			{
+			  "key": "hunger",
+			  "value": "++"
+			},
+			{
+			  "key": "time",
+			  "value": 15
+			},
+			{
+			  "key": "motivation",
+			  "value": "+"
+			}
+		  ]
+		},
+		{
+		  "text": "EV_5_DE_3",
+		  "consequences": [
+			{
+			  "key": "hunger",
+			  "value": "++"
+			},
+			{
+			  "key": "motivation",
+			  "value": "-"
+			},
+			{
+			  "key": "time",
+			  "value": 10
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "event": "EV_6",
+	  "decisions": [
+		{
+		  "text": "EV_6_DE_1",
+		  "consequences": [
+			{
+			  "key": "money",
+			  "value": -5
+			},
+			{
+			  "key": "energy",
+			  "value": "++"
+			},
+			{
+			  "key": "time",
+			  "value": 10
+			},
+			{
+			  "key": "progress",
+			  "value": "++"
+			}
+		  ]
+		},
+		{
+		  "text": "EV_6_DE_2",
+		  "consequences": [
+			{
+			  "key": "energy",
+			  "value": "--"
+			},
+			{
+			  "key": "motivation",
+			  "value": "-"
+			}
+		  ]
+		},
+		{
+		  "text": "EV_6_DE_3",
+		  "consequences": [
+			{
+			  "key": "hunger",
+			  "value": "+"
+			},
+			{
+			  "key": "motivation",
+			  "value": "--"
+			},
+			{
+			  "key": "energy",
+			  "value": "+"
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+		"event": "EV_7",
+		"decisions": [
+		  {
+			"text": "EV_7_DE_1",
+			"consequences": [
+			  {
+				"key": "hunger",
+				"value": "--"
+			  },
+			  {
+				"key": "energy",
+				"value": "++"
+			  },
+			  {
+				"key": "time",
+				"value": 90
+			  },
+			  {
+				"key": "motivation",
+				"value": "--"
+			  }
+			]
+		  },
+		  {
+			"text": "EV_7_DE_2",
+			"consequences": [
+			  {
+				"key": "time",
+				"value": 10
+			  },
+			  {
+				"key": "energy",
+				"value": "-"
+			  },
+			  {
+				"key": "motivation",
+				"value": "-"
+			  }
+			]
+		  },
+		  {
+			"text": "EV_7_DE_3",
+			"consequences": [
+			  {
+				"key": "time",
+				"value": 10
+			  },
+			  {
+				"key": "motivation",
+				"value": "+"
+			  }
+			]
+		  }
+		]
+	},
+	{
+		"event": "EV_8",
+		"decisions": [
+		  {
+			"text": "EV_8_DE_1",
+			"consequences": [
+			  {
+				"key": "hunger",
+				"value": "--"
+			  },
+			  {
+				"key": "energy",
+				"value": "++"
+			  },
+			  {
+				"key": "motivation",
+				"value": "+"
+			  },
+			  {
+				"key": "money",
+				"value": -7
+			  }
+			]
+		  },
+		  {
+			"text": "EV_8_DE_2",
+			"consequences": [
+			  {
+				"key": "time",
+				"value": 10
+			  },
+			  {
+				"key": "energy",
+				"value": "+"
+			  },
+			  {
+				"key": "motivation",
+				"value": "+"
+			  }
+			]
+		  },
+		  {
+			"text": "EV_8_DE_3",
+			"consequences": [
+			  {
+				"key": "hunger",
+				"value": "-"
+			  },
+			  {
+				"key": "motivation",
+				"value": "+"
+			  },
+			  {
+				"key": "energy",
+				"value": "+"
+			  },
+			  {
+				"key": "time",
+				"value": 5
+			  }
+			]
+		  }
+		]
+	},
+	{
+		"event": "EV_9",
+		"decisions": [
+		  {
+			"text": "EV_9_DE_1",
+			"consequences": [
+			  {
+				"key": "hunger",
+				"value": "-"
+			  },
+			  {
+				"key": "energy",
+				"value": "+"
+			  },
+			  {
+				"key": "motivation",
+				"value": "+"
+			  },
+			  {
+				"key": "time",
+				"value": 10
+			  }
+			]
+		  },
+		  {
+			"text": "EV_9_DE_2",
+			"consequences": [
+			  {
+				"key": "hunger",
+				"value": "+"
+			  },
+			  {
+				"key": "energy",
+				"value": "+"
+			  },
+			  {
+				"key": "motivation",
+				"value": "+"
+			  },
+			  {
+				"key": "time",
+				"value": 5
+			  }
+			]
+		  },
+		  {
+			"text": "EV_9_DE_3",
+			"consequences": [
+			  {
+				"key": "hunger",
+				"value": "-"
+			  },
+			  {
+				"key": "motivation",
+				"value": "+"
+			  },
+			  {
+				"key": "time",
+				"value": 50
+			  }
+			]
+		  }
+		]
+	},
+	{
+		"event": "EV_10",
+		"decisions": [
+		  {
+			"text": "EV_10_DE_1",
+			"consequences": [
+			  {
+				"key": "hunger",
+				"value": "-"
+			  },
+			  {
+				"key": "motivation",
+				"value": "+"
+			  },
+			  {
+				"key": "energy",
+				"value": "+"
+			  },
+			  {
+				"key": "time",
+				"value": 5
+			  }
+			]
+		  },
+		  {
+			"text": "EV_10_DE_2",
+			"consequences": [
+			  {
+				"key": "energy",
+				"value": "++"
+			  },
+			  {
+				"key": "motivation",
+				"value": "+"
+			  }
+			]
+		  },
+		  {
+			"text": "EV_10_DE_3",
+			"consequences": [
+			  {
+				"key": "energy",
+				"value": "+"
+			  },
+			  {
+				"key": "motivation",
+				"value": "--"
+			  }
+			]
+		  }
+		]
+	},
+	{
+		"event": "EV_11",
+		"decisions": [
+		  {
+			"text": "EV_11_DE_1",
+			"consequences": [
+			  {
+				"key": "motivation",
+				"value": "-"
+			  },
+			  {
+				"key": "progress",
+				"value": "+"
+			  }
+			]
+		  },
+		  {
+			"text": "EV_11_DE_2",
+			"consequences": [
+			  {
+				"key": "energy",
+				"value": "-"
+			  },
+			  {
+				"key": "motivation",
+				"value": "++"
+			  }
+			]
+		  },
+		  {
+			"text": "EV_11_DE_3",
+			"consequences": [
+			  {
+				"key": "energy",
+				"value": "-"
+			  },
+			  {
+				"key": "progress",
+				"value": "+"
+			  },
+			  {
+				"key": "motivation",
+				"value": "+"
+			  }
+			]
+		  }
+		]
+	},
+	{
+		"event": "EV_12",
+		"decisions": [
+		  {
+			"text": "EV_12_DE_1",
+			"consequences": [
+			  {
+				"key": "motivation",
+				"value": "--"
+			  },
+			  {
+				"key": "progress",
+				"value": "++"
+			  }
+			]
+		  },
+		  {
+			"text": "EV_12_DE_2",
+			"consequences": [
+			  {
+				"key": "motivation",
+				"value": "--"
+			  }
+			]
+		  },
+		  {
+			"text": "EV_12_DE_3",
+			"consequences": [
+			  {
+				"key": "motivation",
+				"value": "-"
+			  },
+			  {
+				"key": "progress",
+				"value": "--"
+			  },
+			  {
+				"key": "time",
+				"value": 80
+			  }
+			]
+		  }
+		]
+	},
+	{
+		"event": "EV_13",
+		"decisions": [
+		  {
+			"text": "EV_13_DE_1",
+			"consequences": [
+			  {
+				"key": "energy",
+				"value": "+"
+			  },
+			  {
+				"key": "motivation",
+				"value": "++"
+			  }
+			]
+		  },
+		  {
+			"text": "EV_13_DE_2",
+			"consequences": [
+			  {
+				"key": "time",
+				"value": 90
+			  },
+			  {
+				"key": "motivation",
+				"value": "--"
+			  }
+			]
+		  },
+		  {
+			"text": "EV_13_DE_3",
+			"consequences": [
+			  {
+				"key": "motivation",
+				"value": "+"
+			  },
+			  {
+				"key": "time",
+				"value": 20
+			  }
+			]
+		  }
+		]
+	},
+	{
+		"event": "EV_14",
+		"decisions": [
+		  {
+			"text": "EV_14_DE_1",
+			"consequences": [
+			  {
+				"key": "motivation",
+				"value": "--"
+			  },
+			  {
+				"key": "progress",
+				"value": "++"
+			  }
+			]
+		  },
+		  {
+			"text": "EV_14_DE_2",
+			"consequences": [
+			  {
+				"key": "time",
+				"value": 10
+			  },
+			  {
+				"key": "motivation",
+				"value": "+"
+			  }
+			]
+		  },
+		  {
+			"text": "EV_14_DE_3",
+			"consequences": [
+			  {
+				"key": "motivation",
+				"value": "++"
+			  },
+			  {
+				"key": "time",
+				"value": 60
+			  }
+			]
+		  }
+		]
+	},
+	{
+		"event": "EV_15",
+		"decisions": [
+		  {
+			"text": "EV_15_DE_1",
+			"consequences": [
+			  {
+				"key": "time",
+				"value": 5
+			  },
+			  {
+				"key": "motivation",
+				"value": "++"
+			  },
+			  {
+				"key": "progress",
+				"value": "+"
+			  }
+			]
+		  },
+		  {
+			"text": "EV_15_DE_2",
+			"consequences": [
+			  {
+				"key": "hunger",
+				"value": "--"
+			  },
+			  {
+				"key": "energy",
+				"value": "++"
+			  },
+			  {
+				"key": "motivation",
+				"value": "++"
+			  },
+			  {
+				"key": "progress",
+				"value": "+"
+			  }
+			]
+		  },
+		  {
+			"text": "EV_15_DE_3",
+			"consequences": [
+			  {
+				"key": "time",
+				"value": 5
+			  },
+			  {
+				"key": "motivation",
+				"value": "+"
+			  }
+			]
+		  }
+		]
+	},
+	{
+		"event": "EV_16",
+		"decisions": [
+		  {
+			"text": "EV_16_DE_1",
+			"consequences": [
+			  {
+				"key": "money",
+				"value": -100
+			  },
+			  {
+				"key": "energy",
+				"value": "-"
+			  },
+			  {
+				"key": "motivation",
+				"value": "--"
+			  },
+			  {
+				"key": "time",
+				"value": 5
+			  }
+			]
+		  },
+		  {
+			"text": "EV_16_DE_2",
+			"consequences": [
+			  {
+				"key": "hunger",
+				"value": "-"
+			  },
+			  {
+				"key": "energy",
+				"value": "-"
+			  },
+			  {
+				"key": "motivation",
+				"value": "--"
+			  },
+			  {
+				"key": "time",
+				"value": 40
+			  },
+			  {
+				"key": "money",
+				"value": -30
+			  },
+			  {
+				"key": "progress",
+				"value": "-"
+			  }
+			]
+		  },
+		  {
+			"text": "EV_16_DE_3",
+			"consequences": [
+			  {
+				"key": "energy",
+				"value": "-"
+			  },
+			  {
+				"key": "progress",
+				"value": "--"
+			  },
+			  {
+				"key": "motivation",
+				"value": "--"
+			  }
+			]
+		  }
+		]
+	},
+	{
+		"event": "EV_17",
+		"decisions": [
+		  {
+			"text": "EV_17_DE_1",
+			"consequences": [
+			  {
+				"key": "motivation",
+				"value": "++"
+			  },
+			  {
+				"key": "originality",
+				"value": "++"
+			  },
+			  {
+				"key": "reputation",
+				"value": "++"
+			  }
+			]
+		  },
+		  {
+			"text": "EV_17_DE_2",
+			"consequences": [
+			  {
+				"key": "progress",
+				"value": "++"
+			  },
+			  {
+				"key": "originality",
+				"value": "--"
+			  },
+			  {
+				"key": "reputation",
+				"value": "--"
+			  }
+			]
+		  },
+		  {
+			"text": "EV_17_DE_3",
+			"consequences": [
+			  {
+				"key": "progress",
+				"value": "+"
+			  },
+			  {
+				"key": "originality",
+				"value": "+"
+			  }
+			]
+		  }
+		]
+	},
+	{
+		"event": "EV_18",
+		"decisions": [
+		  {
+			"text": "EV_18_DE_1",
+			"consequences": [
+			  {
+				"key": "energy",
+				"value": "-"
+			  },
+			  {
+				"key": "motivation",
+				"value": "-"
+			  },
+			  {
+				"key": "progress",
+				"value": "--"
+			  },
+			  {
+				"key": "originlaity",
+				"value": "++"
+			  },
+			  {
+				"key": "graphics",
+				"value": "-"
+			  },
+			]
+		  },
+		  {
+			"text": "EV_18_DE_2",
+			"consequences": [
+			  {
+				"key": "progress",
+				"value": "++"
+			  },
+			  {
+				"key": "money",
+				"value": -20
+			  },
+			  {
+				"key": "graphics",
+				"value": "+"
+			  }
+			]
+		  },
+		  {
+			"text": "EV_18_DE_3",
+			"consequences": [
+			  {
+				"key": "motivation",
+				"value": "+"
+			  },
+			  {
+				"key": "progress",
+				"value": "++"
+			  },
+			  {
+				"key": "originlaity",
+				"value": "++"
+			  },
+			  {
+				"key": "graphics",
+				"value": "++"
+			  },
+			  {
+				"key": "money",
+				"value": -100
+			  }
+			]
+		  }
+		]
+	},
+	{
+		"event": "EV_19",
+		"decisions": [
+		  {
+			"text": "EV_19_DE_1",
+			"consequences": [
+			  {
+				"key": "energy",
+				"value": "-"
+			  },
+			  {
+				"key": "motivation",
+				"value": "-"
+			  },
+			  {
+				"key": "originality",
+				"value": "+"
+			  },
+			  {
+				"key": "music",
+				"value": "-"
+			  }
+			]
+		  },
+		  {
+			"text": "EV_19_DE_2",
+			"consequences": [
+			  {
+				"key": "money",
+				"value": -100
+			  },
+			  {
+				"key": "progress",
+				"value": "++"
+			  },
+			  {
+				"key": "originality",
+				"value": "+"
+			  },
+			  {
+				"key": "music",
+				"value": "++"
+			  }
+			]
+		  },
+		  {
+			"text": "EV_19_DE_3",
+			"consequences": [
+			  {
+				"key": "progress",
+				"value": "++"
+			  },
+			  {
+				"key": "originality",
+				"value": "--"
+			  },
+			  {
+				"key": "music",
+				"value": "+"
+			  }
+			]
+		  }
+		]
+	},
+	{
+		"event": "EV_20",
+		"decisions": [
+		  {
+			"text": "EV_20_DE_1",
+			"consequences": [
+			  {
+				"key": "graphics",
+				"value": "-"
+			  },
+			  {
+				"key": "music",
+				"value": "-"
+			  },
+			  {
+				"key": "originality",
+				"value": "--"
+			  },
+			  {
+				"key": "progress",
+				"value": "++"
+			  },
+			  {
+				"key": "motivation",
+				"value": "+"
+			  }
+			]
+		  },
+		  {
+			"text": "EV_20_DE_2",
+			"consequences": [
+			  {
+				"key": "music",
+				"value": "+"
+			  },
+			  {
+				"key": "energy",
+				"value": "-"
+			  },
+			  {
+				"key": "motivation",
+				"value": "++"
+			  },
+			  {
+				"key": "graphics",
+				"value": "+"
+			  },
+			  {
+				"key": "originality",
+				"value": "++"
+			  },
+			  {
+				"key": "reputation",
+				"value": "+"
+			  },
+			  {
+				"key": "progress",
+				"value": "-"
+			  }
+			]
+		  },
+		  {
+			"text": "EV_20_DE_3",
+			"consequences": [
+			  {
+				"key": "motivation",
+				"value": "-"
+			  },
+			  {
+				"key": "progress",
+				"value": "++"
+			  }
+			]
+		  }
+		]
+	},
+	{
+		"event": "EV_21",
+		"decisions": [
+		  {
+			"text": "EV_21_DE_1",
+			"consequences": [
+			  {
+				"key": "money",
+				"value": -40
+			  },
+			  {
+				"key": "time",
+				"value": 50
+			  },
+			  {
+				"key": "motivation",
+				"value": "--"
+			  }
+			]
+		  },
+		  {
+			"text": "EV_21_DE_2",
+			"consequences": [
+			  {
+				"key": "energy",
+				"value": "+"
+			  },
+			  {
+				"key": "time",
+				"value": 10
+			  },
+			  {
+				"key": "motivation",
+				"value": "++"
+			  }
+			]
+		  },
+		  {
+			"text": "EV_21_DE_3",
+			"consequences": [
+			  {
+				"key": "time",
+				"value": 30
+			  },
+			  {
+				"key": "money",
+				"value": -40
+			  }
+			]
+		  }
+		]
+	},
+	{
+		"event": "EV_22",
+		"decisions": [
+		  {
+			"text": "EV_22_DE_1",
+			"consequences": [
+			  {
+				"key": "energy",
+				"value": "-"
+			  },
+			  {
+				"key": "motivation",
+				"value": "--"
+			  },
+			  {
+				"key": "progress",
+				"value": "++"
+			  },
+			  {
+				"key": "reputation",
+				"value": "--"
+			  }
+			]
+		  },
+		  {
+			"text": "EV_22_DE_2",
+			"consequences": [
+			  {
+				"key": "hunger",
+				"value": "++"
+			  },
+			  {
+				"key": "energy",
+				"value": "+"
+			  },
+			  {
+				"key": "motivation",
+				"value": "++"
+			  },
+			  {
+				"key": "time",
+				"value": "90"
+			  },
+			  {
+				"key": "reputation",
+				"value": "++"
+			  },
+			  {
+				"key": "money",
+				"value": -40
+			  }
+			]
+		  },
+		  {
+			"text": "EV_22_DE_3",
+			"consequences": [
+			  {
+				"key": "hunger",
+				"value": "+"
+			  },
+			  {
+				"key": "progress",
+				"value": "--"
+			  },
+			  {
+				"key": "time",
+				"value": 5
+			  },
+			  {
+				"key": "reputation",
+				"value": "+"
+			  }
+			]
+		  }
+		]
+	},
+	{
+		"event": "EV_23",
+		"decisions": [
+		  {
+			"text": "EV_23_DE_1",
+			"consequences": [
+			  {
+				"key": "energy",
+				"value": "++"
+			  },
+			  {
+				"key": "motivation",
+				"value": "++"
+			  },
+			  {
+				"key": "progress",
+				"value": "++"
+			  }
+			]
+		  },
+		  {
+			"text": "EV_23_DE_2",
+			"consequences": [
+			  {
+				"key": "energy",
+				"value": "++"
+			  },
+			  {
+				"key": "motivation",
+				"value": "+"
+			  },
+			  {
+				"key": "progress",
+				"value": "--"
+			  },
+			  {
+				"key": "time",
+				"value": 90
+			  }
+			]
+		  },
+		  {
+			"text": "EV_23_DE_3",
+			"consequences": [
+			  {
+				"key": "energy",
+				"value": "++"
+			  },
+			  {
+				"key": "progress",
+				"value": "+"
+			  },
+			  {
+				"key": "time",
+				"value": 90
+			  }
+			]
+		  }
+		]
+	},
+	{
+		"event": "EV_24",
+		"decisions": [
+		  {
+			"text": "EV_24_DE_1",
+			"consequences": [
+			  {
+				"key": "progress",
+				"value": "++"
+			  }
+			]
+		  },
+		  {
+			"text": "EV_24_DE_2",
+			"consequences": [
+			  {
+				"key": "time",
+				"value": 60
+			  },
+			  {
+				"key": "hunger",
+				"value": "++"
+			  },
+			  {
+				"key": "progress",
+				"value": "--"
+			  }
+			]
+		  },
+		  {
+			"text": "EV_24_DE_3",
+			"consequences": [
+			  {
+				"key": "hunger",
+				"value": "++"
+			  },
+			  {
+				"key": "progress",
+				"value": "+"
+			  },
+			  {
+				"key": "time",
+				"value": 60
+			  },
+			]
+		  }
+		]
+	},
+	{
+		"event": "EV_25",
+		"decisions": [
+		  {
+			"text": "EV_25_DE_1",
+			"consequences": [
+			  {
+				"key": "time",
+				"value": 20
+			  },
+			  {
+				"key": "progress",
+				"value": "+"
+			  }
+			]
+		  },
+		  {
+			"text": "EV_25_DE_2",
+			"consequences": [
+			  {
+				"key": "motivation",
+				"value": "--"
+			  },
+			  {
+				"key": "progress",
+				"value": "++"
+			  }
+			]
+		  },
+		  {
+			"text": "EV_25_DE_3",
+			"consequences": [
+			  {
+				"key": "time",
+				"value": 50
+			  },
+			  {
+				"key": "progress",
+				"value": "-"
+			  }
+			]
+		  }
+		]
+	},
+	{
+		"event": "EV_26",
+		"decisions": [
+		  {
+			"text": "EV_26_DE_1",
+			"consequences": [
+			  {
+				"key": "energy",
+				"value": "-"
+			  },
+			  {
+				"key": "motivation",
+				"value": "--"
+			  }
+			]
+		  },
+		  {
+			"text": "EV_26_DE_2",
+			"consequences": [
+			  {
+				"key": "progress",
+				"value": "+"
+			  },
+			  {
+				"key": "motivation",
+				"value": "-"
+			  }
+			]
+		  },
+		  {
+			"text": "EV_26_DE_3",
+			"consequences": [
+			  {
+				"key": "time",
+				"value": 30
+			  },
+			  {
+				"key": "progress",
+				"value": "+"
+			  },
+			  {
+				"key": "reputation",
+				"value": "+"
+			  }
+			]
+		  }
+		]
+	},
+	{
+		"event": "EV_27",
+		"decisions": [
+		  {
+			"text": "EV_27_DE_1",
+			"consequences": [
+			  {
+				"key": "energy",
+				"value": "-"
+			  },
+			  {
+				"key": "motivation",
+				"value": "++"
+			  },
+			  {
+				"key": "progress",
+				"value": "-"
+			  },
+			  {
+				"key": "time",
+				"value": 30
+			  }
+			]
+		  },
+		  {
+			"text": "EV_27_DE_2",
+			"consequences": [
+			  {
+				"key": "progress",
+				"value": "++"
+			  },
+			  {
+				"key": "energy",
+				"value": "-"
+			  },
+			  {
+				"key": "motivation",
+				"value": "--"
+			  }
+			]
+		  },
+		  {
+			"text": "EV_27_DE_3",
+			"consequences": [
+			  {
+				"key": "energy",
+				"value": "-"
+			  },
+			  {
+				"key": "progress",
+				"value": "++"
+			  },
+			  {
+				"key": "motivation",
+				"value": "-"
+			  }
+			]
+		  }
+		]
+	},
+	{
+		"event": "EV_28",
+		"decisions": [
+		  {
+			"text": "EV_28_DE_1",
+			"consequences": [
+			  {
+				"key": "time",
+				"value": 50
+			  },
+			  {
+				"key": "energy",
+				"value": "+"
+			  },
+			  {
+				"key": "motivation",
+				"value": "++"
+			  },
+			  {
+				"key": "progress",
+				"value": "++"
+			  }
+			]
+		  },
+		  {
+			"text": "EV_28_DE_2",
+			"consequences": [
+			  {
+				"key": "progress",
+				"value": "--"
+			  },
+			  {
+				"key": "energy",
+				"value": "+"
+			  },
+			  {
+				"key": "motivation",
+				"value": "+"
+			  }
+			]
+		  },
+		  {
+			"text": "EV_28_DE_3",
+			"consequences": [
+			  {
+				"key": "motivation",
+				"value": "--"
+			  },
+			  {
+				"key": "progress",
+				"value": "++"
+			  }
+			]
+		  }
+		]
+	},
+	{
+		"event": "EV_29",
+		"decisions": [
+		  {
+			"text": "EV_29_DE_1",
+			"consequences": [
+			  {
+				"key": "energy",
+				"value": "--"
+			  },
+			  {
+				"key": "motivation",
+				"value": "--"
+			  },
+			  {
+				"key": "progress",
+				"value": "--"
+			  },
+			  {
+				"key": "time",
+				"value": 30
+			  }
+			]
+		  },
+		  {
+			"text": "EV_29_DE_2",
+			"consequences": [
+			  {
+				"key": "energy",
+				"value": "-"
+			  },
+			  {
+				"key": "progress",
+				"value": "-"
+			  },
+			  {
+				"key": "motivation",
+				"value": "-"
+			  }
+			]
+		  },
+		  {
+			"text": "EV_29_DE_3",
+			"consequences": [
+			  {
+				"key": "hunger",
+				"value": "++"
+			  },
+			  {
+				"key": "progress",
+				"value": "+"
+			  }
+			]
+		  }
+		]
+	},
+	{
+		"event": "EV_30",
+		"decisions": [
+		  {
+			"text": "EV_30_DE_1",
+			"consequences": [
+			  {
+				"key": "time",
+				"value": 10
+			  },
+			  {
+				"key": "energy",
+				"value": "--"
+			  },
+			  {
+				"key": "motivation",
+				"value": "++"
+			  },
+			  {
+				"key": "progress",
+				"value": "-"
+			  }
+			]
+		  },
+		  {
+			"text": "EV_30_DE_2",
+			"consequences": [
+			  {
+				"key": "progress",
+				"value": "++"
+			  },
+			  {
+				"key": "energy",
+				"value": "-"
+			  },
+			  {
+				"key": "motivation",
+				"value": "-"
+			  },
+			  {
+				"key": "time",
+				"value": 10
+			  }
+			]
+		  },
+		  {
+			"text": "EV_30_DE_3",
+			"consequences": [
+			  {
+				"key": "energy",
+				"value": "-"
+			  },
+			  {
+				"key": "motivation",
+				"value": "++"
+			  },
+			  {
+				"key": "time",
+				"value": 20
+			  }
+			]
+		  }
+		]
+	},
+	{
+		"event": "EV_31",
+		"decisions": [
+		  {
+			"text": "EV_31_DE_1",
+			"consequences": [
+			  {
+				"key": "time",
+				"value": 40
+			  },
+			  {
+				"key": "energy",
+				"value": "--"
+			  },
+			  {
+				"key": "motivation",
+				"value": "--"
+			  },
+			  {
+				"key": "progress",
+				"value": "-"
+			  }
+			]
+		  },
+		  {
+			"text": "EV_31_DE_2",
+			"consequences": [
+			  {
+				"key": "progress",
+				"value": "+"
+			  },
+			  {
+				"key": "energy",
+				"value": "+"
+			  },
+			  {
+				"key": "motivation",
+				"value": "-"
+			  }
+			]
+		  },
+		  {
+			"text": "EV_31_DE_3",
+			"consequences": [
+			  {
+				"key": "time",
+				"value": 10
+			  },
+			  {
+				"key": "progress",
+				"value": "++"
+			  },
+			  {
+				"key": "energy",
+				"value": "-"
+			  }
+			]
+		  }
+		]
+	},
+	{
+		"event": "EV_32",
+		"decisions": [
+		  {
+			"text": "EV_32_DE_1",
+			"consequences": [
+			  {
+				"key": "time",
+				"value": 30
+			  },
+			  {
+				"key": "energy",
+				"value": "-"
+			  },
+			  {
+				"key": "motivation",
+				"value": "--"
+			  },
+			  {
+				"key": "progress",
+				"value": "-"
+			  },
+			  {
+				"key": "graphics",
+				"value": "++"
+			  }
+			]
+		  },
+		  {
+			"text": "EV_32_DE_2",
+			"consequences": [
+			  {
+				"key": "progress",
+				"value": "++"
+			  },
+			  {
+				"key": "graphics",
+				"value": "--"
+			  }
+			]
+		  },
+		  {
+			"text": "EV_32_DE_3",
+			"consequences": [
+			  {
+				"key": "progress",
+				"value": "--"
+			  },
+			  {
+				"key": "energy",
+				"value": "--"
+			  },
+			  {
+				"key": "motivation",
+				"value": "--"
+			  },
+			  {
+				"key": "originality",
+				"value": "--"
+			  }
+			]
+		  }
+		]
+	},
+	{
+		"event": "EV_33",
+		"decisions": [
+		  {
+			"text": "EV_33_DE_1",
+			"consequences": [
+			  {
+				"key": "energy",
+				"value": "+"
+			  },
+			  {
+				"key": "motivation",
+				"value": "+"
+			  },
+			  {
+				"key": "progress",
+				"value": "++"
+			  }
+			]
+		  },
+		  {
+			"text": "EV_33_DE_2",
+			"consequences": [
+			  {
+				"key": "progress",
+				"value": "++"
+			  },
+			  {
+				"key": "motivation",
+				"value": "++"
+			  }
+			]
+		  },
+		  {
+			"text": "EV_33_DE_3",
+			"consequences": [
+			  {
+				"key": "energy",
+				"value": "-"
+			  },
+			  {
+				"key": "progress",
+				"value": "++"
+			  },
+			  {
+				"key": "motivation",
+				"value": "+"
+			  }
+			]
+		  }
+		]
+	},
+	{
+		"event": "EV_34",
+		"decisions": [
+		  {
+			"text": "EV_34_DE_1",
+			"consequences": [
+			  {
+				"key": "energy",
+				"value": "--"
+			  },
+			  {
+				"key": "motivation",
+				"value": "++"
+			  },
+			  {
+				"key": "progress",
+				"value": "++"
+			  }
+			]
+		  },
+		  {
+			"text": "EV_34_DE_2",
+			"consequences": [
+			  {
+				"key": "progression",
+				"value": "+"
+			  },
+			  {
+				"key": "energy",
+				"value": "-"
+			  },
+			  {
+				"key": "motivation",
+				"value": "-"
+			  }
+			]
+		  },
+		  {
+			"text": "EV_34_DE_3",
+			"consequences": [
+			  {
+				"key": "energy",
+				"value": "-"
+			  },
+			  {
+				"key": "progress",
+				"value": "+"
+			  }
+			]
+		  }
+		]
+	},
+	{
+		"event": "EV_35",
+		"decisions": [
+		  {
+			"text": "EV_35_DE_1",
+			"consequences": [
+			  {
+				"key": "time",
+				"value": 40
+			  },
+			  {
+				"key": "energy",
+				"value": "--"
+			  },
+			  {
+				"key": "motivation",
+				"value": "++"
+			  },
+			  {
+				"key": "progress",
+				"value": "++"
+			  },
+			  {
+				"key": "originality",
+				"value": "-"
+			  },
+			  {
+				"key": "reputation",
+				"value": "-"
+			  }
+			]
+		  },
+		  {
+			"text": "EV_35_DE_2",
+			"consequences": [
+			  {
+				"key": "progress",
+				"value": "--"
+			  },
+			  {
+				"key": "energy",
+				"value": "-"
+			  },
+			  {
+				"key": "motivation",
+				"value": "-"
+			  },
+			  {
+				"key": "originality",
+				"value": "++"
+			  }
+			]
+		  },
+		  {
+			"text": "EV_35_DE_3",
+			"consequences": [
+			  {
+				"key": "energy",
+				"value": "--"
+			  },
+			  {
+				"key": "progress",
+				"value": "+"
+			  },
+			  {
+				"key": "time",
+				"value": 20
+			  },
+			  {
+				"key": "originality",
+				"value": "+"
+			  }
+			]
+		  }
+		]
+	},
+	{
+		"event": "EV_36",
+		"decisions": [
+		  {
+			"text": "EV_36_DE_1",
+			"consequences": [
+			  {
+				"key": "time",
+				"value": 45
+			  },
+			  {
+				"key": "progress",
+				"value": "--"
+			  },
+			  {
+				"key": "energy",
+				"value": "--"
+			  }
+			]
+		  },
+		  {
+			"text": "EV_36_DE_2",
+			"consequences": [
+			  {
+				"key": "time",
+				"value": 20
+			  },
+			  {
+				"key": "energy",
+				"value": "-"
+			  },
+			  {
+				"key": "progress",
+				"value": "--"
+			  }
+			]
+		  },
+		  {
+			"text": "EV_36_DE_3",
+			"consequences": [
+			  {
+				"key": "progress",
+				"value": "++"
+			  }
+			]
+		  }
+		]
+	},
+	{
+		"event": "EV_37",
+		"decisions": [
+		  {
+			"text": "EV_37_DE_1",
+			"consequences": [
+			  {
+				"key": "hunger",
+				"value": "--"
+			  },
+			  {
+				"key": "energy",
+				"value": "-"
+			  },
+			  {
+				"key": "motivation",
+				"value": "-"
+			  },
+			  {
+				"key": "progress",
+				"value": "++"
+			  }
+			]
+		  },
+		  {
+			"text": "EV_37_DE_2",
+			"consequences": [
+			  {
+				"key": "hunger",
+				"value": "+"
+			  },
+			  {
+				"key": "energy",
+				"value": "+"
+			  },
+			  {
+				"key": "motivation",
+				"value": "+"
+			  }
+			]
+		  },
+		  {
+			"text": "EV_37_DE_3",
+			"consequences": [
+			  {
+				"key": "motivation",
+				"value": "--"
+			  },
+			  {
+				"key": "progress",
+				"value": "++"
+			  }
+			]
+		  }
+		]
+	},
+	{
+		"event": "EV_38",
+		"decisions": [
+		  {
+			"text": "EV_38_DE_1",
+			"consequences": [
+			  {
+				"key": "motivation",
+				"value": "--"
+			  },
+			  {
+				"key": "progress",
+				"value": "++"
+			  }
+			]
+		  },
+		  {
+			"text": "EV_38_DE_2",
+			"consequences": [
+			  {
+				"key": "time",
+				"value": 10
+			  },
+			  {
+				"key": "energy",
+				"value": "++"
+			  },
+			  {
+				"key": "motivation",
+				"value": "+"
+			  }
+			]
+		  },
+		  {
+			"text": "EV_38_DE_3",
+			"consequences": [
+			  {
+				"key": "time",
+				"value": 20
+			  },
+			  {
+				"key": "progress",
+				"value": "-"
+			  },
+			  {
+				"key": "motivation",
+				"value": "--"
+			  }
+			]
+		  }
+		]
+	},
+	{
+		"event": "EV_39",
+		"decisions": [
+		  {
+			"text": "EV_39_DE_1",
+			"consequences": [
+			  {
+				"key": "time",
+				"value": 10
+			  },
+			  {
+				"key": "energy",
+				"value": "--"
+			  },
+			  {
+				"key": "progress",
+				"value": "--"
+			  },
+			  {
+				"key": "reputation",
+				"value": "++"
+			  }
+			]
+		  },
+		  {
+			"text": "EV_39_DE_2",
+			"consequences": [
+			  {
+				"key": "energy",
+				"value": "-"
+			  },
+			  {
+				"key": "progress",
+				"value": "+"
+			  }
+			]
+		  },
+		  {
+			"text": "EV_39_DE_3",
+			"consequences": [
+			  {
+				"key": "energy",
+				"value": "--"
+			  },
+			  {
+				"key": "progress",
+				"value": "++"
+			  },
+			  {
+				"key": "motivation",
+				"value": "-"
+			  }
+			]
+		  }
+		]
+	},
+	{
+		"event": "EV_40",
+		"decisions": [
+		  {
+			"text": "EV_40_DE_1",
+			"consequences": [
+			  {
+				"key": "energy",
+				"value": "-"
+			  },
+			  {
+				"key": "motivation",
+				"value": "--"
+			  },
+			  {
+				"key": "progress",
+				"value": "+"
+			  }
+			]
+		  },
+		  {
+			"text": "EV_40_DE_2",
+			"consequences": [
+			  {
+				"key": "originality",
+				"value": "++"
+			  },
+			  {
+				"key": "progress",
+				"value": "--"
+			  },
+			  {
+				"key": "motivation",
+				"value": "-"
+			  },
+			  {
+				"key": "time",
+				"value": 45
+			  }
+			]
+		  },
+		  {
+			"text": "EV_40_DE_3",
+			"consequences": [
+			  {
+				"key": "progress",
+				"value": "++"
+			  }
+			]
+		  }
+		]
+	},
+	{
+		"event": "EV_41",
+		"decisions": [
+		  {
+			"text": "EV_41_DE_1",
+			"consequences": [
+			  {
+				"key": "motivation",
+				"value": "--"
+			  },
+			  {
+				"key": "progress",
+				"value": "++"
+			  },
+			  {
+				"key": "reputation",
+				"value": "++"
+			  }
+			]
+		  },
+		  {
+			"text": "EV_41_DE_2",
+			"consequences": [
+			  {
+				"key": "progress",
+				"value": "--"
+			  },
+			  {
+				"key": "motivation",
+				"value": "+"
+			  }
+			]
+		  },
+		  {
+			"text": "EV_41_DE_3",
+			"consequences": [
+			  {
+				"key": "time",
+				"value": 10
+			  },
+			  {
+				"key": "progress",
+				"value": "+"
+			  },
+			  {
+				"key": "reputation",
+				"value": "--"
+			  }
+			]
+		  }
+		]
+	},
+	{
+		"event": "EV_42",
+		"decisions": [
+		  {
+			"text": "EV_42_DE_1",
+			"consequences": [
+			  {
+				"key": "time",
+				"value": 20
+			  },
+			  {
+				"key": "energy",
+				"value": "--"
+			  },
+			  {
+				"key": "motivation",
+				"value": "--"
+			  },
+			  {
+				"key": "progress",
+				"value": "--"
+			  }
+			]
+		  },
+		  {
+			"text": "EV_42_DE_2",
+			"consequences": [
+			  {
+				"key": "progress",
+				"value": "--"
+			  },
+			  {
+				"key": "energy",
+				"value": "+"
+			  },
+			  {
+				"key": "motivation",
+				"value": "+"
+			  },
+			  {
+				"key": "time",
+				"value": 10
+			  }
+			]
+		  },
+		  {
+			"text": "EV_42_DE_3",
+			"consequences": [
+			  {
+				"key": "motivation",
+				"value": "+"
+			  },
+			  {
+				"key": "progress",
+				"value": "-"
+			  },
+			  {
+				"key": "energy",
+				"value": "-"
+			  }
+			]
+		  }
+		]
+	},
+	{
+		"event": "EV_43",
+		"decisions": [
+		  {
+			"text": "EV_43_DE_1",
+			"consequences": [
+			  {
+				"key": "reputation",
+				"value": "+"
+			  },
+			  {
+				"key": "energy",
+				"value": "-"
+			  },
+			  {
+				"key": "motivation",
+				"value": "+"
+			  },
+			  {
+				"key": "progress",
+				"value": "+"
+			  }
+			]
+		  },
+		  {
+			"text": "EV_43_DE_2",
+			"consequences": [
+			  {
+				"key": "progress",
+				"value": "+"
+			  },
+			  {
+				"key": "energy",
+				"value": "--"
+			  },
+			  {
+				"key": "motivation",
+				"value": "+"
+			  },
+			  {
+				"key": "originality",
+				"value": "++"
+			  }
+			]
+		  },
+		  {
+			"text": "EV_43_DE_3",
+			"consequences": [
+			  {
+				"key": "time",
+				"value": 20
+			  },
+			  {
+				"key": "progress",
+				"value": "--"
+			  },
+			  {
+				"key": "energy",
+				"value": "-"
+			  }
+			]
+		  }
+		]
+	},
+	{
+		"event": "EV_44",
+		"decisions": [
+		  {
+			"text": "EV_44_DE_1",
+			"consequences": [
+			  {
+				"key": "time",
+				"value": 10
+			  },
+			  {
+				"key": "energy",
+				"value": "+"
+			  },
+			  {
+				"key": "motivation",
+				"value": "++"
+			  }
+			]
+		  },
+		  {
+			"text": "EV_44_DE_2",
+			"consequences": [
+			  {
+				"key": "time",
+				"value": 20
+			  },
+			  {
+				"key": "energy",
+				"value": "+"
+			  },
+			  {
+				"key": "motivation",
+				"value": "++"
+			  }
+			]
+		  },
+		  {
+			"text": "EV_44_DE_3",
+			"consequences": [
+			  {
+				"key": "motivation",
+				"value": "--"
+			  },
+			  {
+				"key": "progress",
+				"value": "+"
+			  }
+			]
+		  }
+		]
+	},
+	{
+		"event": "EV_45",
+		"decisions": [
+		  {
+			"text": "EV_45_DE_1",
+			"consequences": [
+			  {
+				"key": "progress",
+				"value": "++"
+			  },
+			  {
+				"key": "energy",
+				"value": "--"
+			  },
+			  {
+				"key": "motivation",
+				"value": "++"
+			  },
+			  {
+				"key": "reputation",
+				"value": "+"
+			  }
+			]
+		  },
+		  {
+			"text": "EV_45_DE_2",
+			"consequences": [
+			  {
+				"key": "reputation",
+				"value": "-"
+			  },
+			  {
+				"key": "progress",
+				"value": "++"
+			  },
+			  {
+				"key": "motivation",
+				"value": "-"
+			  }
+			]
+		  },
+		  {
+			"text": "EV_45_DE_3",
+			"consequences": [
+			  {
+				"key": "energy",
+				"value": "--"
+			  },
+			  {
+				"key": "progress",
+				"value": "++"
+			  },
+			  {
+				"key": "reputation",
+				"value": "++"
+			  }
+			]
+		  }
+		]
+	},
+	{
+		"event": "EV_46",
+		"decisions": [
+		  {
+			"text": "EV_46_DE_1",
+			"consequences": [
+			  {
+				"key": "energy",
+				"value": "-"
+			  },
+			  {
+				"key": "motivation",
+				"value": "++"
+			  },
+			  {
+				"key": "progress",
+				"value": "++"
+			  },
+			  {
+				"key": "reputation",
+				"value": "++"
+			  }
+			]
+		  },
+		  {
+			"text": "EV_46_DE_2",
+			"consequences": [
+			  {
+				"key": "reputation",
+				"value": "-"
+			  },
+			  {
+				"key": "energy",
+				"value": "-"
+			  },
+			  {
+				"key": "motivation",
+				"value": "-"
+			  },
+			  {
+				"key": "progress",
+				"value": "++"
+			  }
+			]
+		  },
+		  {
+			"text": "EV_46_DE_3",
+			"consequences": [
+			  {
+				"key": "motivation",
+				"value": "++"
+			  },
+			  {
+				"key": "reputation",
+				"value": "+"
+			  }
+			]
+		  }
+		]
+	},
+	{
+		"event": "EV_47",
+		"decisions": [
+		  {
+			"text": "EV_47_DE_1",
+			"consequences": [
+			  {
+				"key": "energy",
+				"value": "-"
+			  },
+			  {
+				"key": "motivation",
+				"value": "-"
+			  },
+			  {
+				"key": "progress",
+				"value": "+"
+			  }
+			]
+		  },
+		  {
+			"text": "EV_47_DE_2",
+			"consequences": [
+			  {
+				"key": "progress",
+				"value": "--"
+			  },
+			  {
+				"key": "energy",
+				"value": "+"
+			  },
+			  {
+				"key": "motivation",
+				"value": "-"
+			  },
+			  {
+				"key": "time",
+				"value": 20
+			  }
+			]
+		  },
+		  {
+			"text": "EV_47_DE_3",
+			"consequences": [
+			  {
+				"key": "progress",
+				"value": "-"
+			  },
+			  {
+				"key": "motivation",
+				"value": "-"
+			  }
+			]
+		  }
+		]
+	},
+	{
+		"event": "EV_48",
+		"decisions": [
+		  {
+			"text": "EV_48_DE_1",
+			"consequences": [
+			  {
+				"key": "reputation",
+				"value": "++"
+			  },
+			  {
+				"key": "motivation",
+				"value": "-"
+			  },
+			  {
+				"key": "progress",
+				"value": "+"
+			  }
+			]
+		  },
+		  {
+			"text": "EV_48_DE_2",
+			"consequences": [
+			  {
+				"key": "progress",
+				"value": "+"
+			  },
+			  {
+				"key": "motivation",
+				"value": "+"
+			  },
+			  {
+				"key": "reputation",
+				"value": "-"
+			  }
+			]
+		  },
+		  {
+			"text": "EV_48_DE_3",
+			"consequences": [
+			  {
+				"key": "energy",
+				"value": "--"
+			  },
+			  {
+				"key": "progress",
+				"value": "-"
+			  },
+			  {
+				"key": "motivation",
+				"value": "+"
+			  },
+			  {
+				"key": "time",
+				"value": 30
+			  }
+			]
+		  }
+		]
+	},
+	{
+		"event": "EV_49",
+		"decisions": [
+		  {
+			"text": "EV_49_DE_1",
+			"consequences": [
+			  {
+				"key": "energy",
+				"value": "-"
+			  },
+			  {
+				"key": "motivation",
+				"value": "-"
+			  },
+			  {
+				"key": "progress",
+				"value": "+"
+			  },
+			  {
+				"key": "reputation",
+				"value": "-"
+			  }
+			]
+		  },
+		  {
+			"text": "EV_49_DE_2",
+			"consequences": [
+			  {
+				"key": "energy",
+				"value": "-"
+			  },
+			  {
+				"key": "progress",
+				"value": "++"
+			  },
+			  {
+				"key": "reputation",
+				"value": "+"
+			  }
+			]
+		  },
+		  {
+			"text": "EV_49_DE_3",
+			"consequences": [
+			  {
+				"key": "energy",
+				"value": "--"
+			  },
+			  {
+				"key": "progress",
+				"value": "++"
+			  },
+			  {
+				"key": "motivation",
+				"value": "--"
+			  },
+			  {
+				"key": "reputation",
+				"value": "-"
+			  }
+			]
+		  }
+		]
+	},
+	{
+		"event": "EV_50",
+		"decisions": [
+		  {
+			"text": "EV_50_DE_1",
+			"consequences": [
+			  {
+				"key": "time",
+				"value": 20
+			  },
+			  {
+				"key": "energy",
+				"value": "-"
+			  },
+			  {
+				"key": "motivation",
+				"value": "++"
+			  },
+			  {
+				"key": "reputation",
+				"value": "++"
+			  },
+			  {
+				"key": "progress",
+				"value": "+"
+			  }
+			]
+		  },
+		  {
+			"text": "EV_50_DE_2",
+			"consequences": [
+			  {
+				"key": "progress",
+				"value": "++"
+			  },
+			  {
+				"key": "energy",
+				"value": "-"
+			  },
+			  {
+				"key": "motivation",
+				"value": "-"
+			  },
+			  {
+				"key": "reputation",
+				"value": "-"
+			  }
+			]
+		  },
+		  {
+			"text": "EV_50_DE_3",
+			"consequences": [
+			  {
+				"key": "energy",
+				"value": "-"
+			  },
+			  {
+				"key": "motivation",
+				"value": "-"
+			  },
+			  {
+				"key": "reputation",
+				"value": "--"
+			  }
+			]
+		  }
+		]
+	},
+	{
+		"event": "EV_51",
+		"decisions": [
+		  {
+			"text": "EV_51_DE_1",
+			"consequences": [
+			  {
+				"key": "originality",
+				"value": "--"
+			  },
+			  {
+				"key": "energy",
+				"value": "-"
+			  },
+			  {
+				"key": "motivation",
+				"value": "-"
+			  },
+			  {
+				"key": "progress",
+				"value": "-"
+			  }
+			]
+		  },
+		  {
+			"text": "EV_51_DE_2",
+			"consequences": [
+			  {
+				"key": "progress",
+				"value": "+"
+			  },
+			  {
+				"key": "energy",
+				"value": "-"
+			  },
+			  {
+				"key": "motivation",
+				"value": "+"
+			  },
+			  {
+				"key": "originality",
+				"value": "+"
+			  }
+			]
+		  },
+		  {
+			"text": "EV_51_DE_3",
+			"consequences": [
+			  {
+				"key": "progress",
+				"value": "++"
+			  },
+			  {
+				"key": "energy",
+				"value": "-"
+			  },
+			  {
+				"key": "motivation",
+				"value": "++"
+			  },
+			  {
+				"key": "originality",
+				"value": "++"
+			  }
+			]
+		  }
+		]
+	},
+	{
+		"event": "EV_52",
+		"decisions": [
+		  {
+			"text": "EV_52_DE_1",
+			"consequences": [
+			  {
+				"key": "time",
+				"value": 30
+			  },
+			  {
+				"key": "energy",
+				"value": "++"
+			  },
+			  {
+				"key": "motivation",
+				"value": "+"
+			  }
+			]
+		  },
+		  {
+			"text": "EV_52_DE_2",
+			"consequences": [
+			  {
+				"key": "progress",
+				"value": "+"
+			  },
+			  {
+				"key": "energy",
+				"value": "-"
+			  },
+			  {
+				"key": "motivation",
+				"value": "-"
+			  }
+			]
+		  },
+		  {
+			"text": "EV_52_DE_3",
+			"consequences": [
+			  {
+				"key": "reputation",
+				"value": "+"
+			  },
+			  {
+				"key": "energy",
+				"value": "+"
+			  },
+			  {
+				"key": "motivation",
+				"value": "+"
+			  },
+			  {
+				"key": "time",
+				"value": 10
+			  }
+			]
+		  }
+		]
+	},
+	{
+		"event": "EV_53",
+		"decisions": [
+		  {
+			"text": "EV_53_DE_1",
+			"consequences": [
+			  {
+				"key": "originality",
+				"value": "--"
+			  },
+			  {
+				"key": "energy",
+				"value": "--"
+			  },
+			  {
+				"key": "motivation",
+				"value": "--"
+			  },
+			  {
+				"key": "progress",
+				"value": "--"
+			  },
+			  {
+				"key": "time",
+				"value": "10"
+			  }
+			]
+		  },
+		  {
+			"text": "EV_53_DE_2",
+			"consequences": [
+			  {
+				"key": "originality",
+				"value": "++"
+			  },
+			  {
+				"key": "energy",
+				"value": "-"
+			  },
+			  {
+				"key": "motivation",
+				"value": "+"
+			  },
+			  {
+				"key": "reputation",
+				"value": "+"
+			  }
+			]
+		  },
+		  {
+			"text": "EV_53_DE_3",
+			"consequences": [
+			  {
+				"key": "motivation",
+				"value": "-"
+			  },
+			  {
+				"key": "reputation",
+				"value": "--"
+			  }
+			]
+		  }
+		]
+	},
+	{
+		"event": "EV_54",
+		"decisions": [
+		  {
+			"text": "EV_54_DE_1",
+			"consequences": [
+			  {
+				"key": "time",
+				"value": 20
+			  },
+			  {
+				"key": "energy",
+				"value": "+"
+			  },
+			  {
+				"key": "motivation",
+				"value": "-"
+			  },
+			  {
+				"key": "progress",
+				"value": "-"
+			  },
+			  {
+				"key": "reputation",
+				"value": "++"
+			  }
+			]
+		  },
+		  {
+			"text": "EV_54_DE_2",
+			"consequences": [
+			  {
+				"key": "progress",
+				"value": "++"
+			  },
+			  {
+				"key": "energy",
+				"value": "-"
+			  },
+			  {
+				"key": "motivation",
+				"value": "-"
+			  },
+			  {
+				"key": "reputation",
+				"value": "-"
+			  }
+			]
+		  },
+		  {
+			"text": "EV_54_DE_3",
+			"consequences": [
+			  {
+				"key": "time",
+				"value": 30
+			  },
+			  {
+				"key": "progress",
+				"value": "+"
+			  }
+			]
+		  }
+		]
+	},
+	{
+		"event": "EV_55",
+		"decisions": [
+		  {
+			"text": "EV_55_DE_1",
+			"consequences": [
+			  {
+				"key": "time",
+				"value": 20
+			  },
+			  {
+				"key": "energy",
+				"value": "++"
+			  },
+			  {
+				"key": "motivation",
+				"value": "+"
+			  },
+			  {
+				"key": "progress",
+				"value": "-"
+			  }
+			]
+		  },
+		  {
+			"text": "EV_55_DE_2",
+			"consequences": [
+			  {
+				"key": "reputation",
+				"value": "-"
+			  },
+			  {
+				"key": "energy",
+				"value": "--"
+			  },
+			  {
+				"key": "motivation",
+				"value": "-"
+			  },
+			  {
+				"key": "progress",
+				"value": "++"
+			  }
+			]
+		  },
+		  {
+			"text": "EV_55_DE_3",
+			"consequences": [
+			  {
+				"key": "reputation",
+				"value": "++"
+			  },
+			  {
+				"key": "energy",
+				"value": "+"
+			  },
+			  {
+				"key": "motivation",
+				"value": "+"
+			  },
+			  {
+				"key": "time",
+				"value": 10
+			  }
+			]
+		  }
+		]
+	},
+	{
+		"event": "EV_56",
+		"decisions": [
+		  {
+			"text": "EV_56_DE_1",
+			"consequences": [
+			  {
+				"key": "originality",
+				"value": "--"
+			  },
+			  {
+				"key": "energy",
+				"value": "-"
+			  },
+			  {
+				"key": "motivation",
+				"value": "+"
+			  },
+			  {
+				"key": "progress",
+				"value": "++"
+			  }
+			]
+		  },
+		  {
+			"text": "EV_56_DE_2",
+			"consequences": [
+			  {
+				"key": "originality",
+				"value": "++"
+			  },
+			  {
+				"key": "energy",
+				"value": "--"
+			  },
+			  {
+				"key": "motivation",
+				"value": "-"
+			  },
+			  {
+				"key": "progress",
+				"value": "+"
+			  }
+			]
+		  },
+		  {
+			"text": "EV_56_DE_3",
+			"consequences": [
+			  {
+				"key": "reputation",
+				"value": "++"
+			  },
+			  {
+				"key": "energy",
+				"value": "-"
+			  },
+			  {
+				"key": "motivation",
+				"value": "+"
+			  }
+			]
+		  }
+		]
+	},
+	{
+		"event": "EV_57",
+		"decisions": [
+		  {
+			"text": "EV_57_DE_1",
+			"consequences": [
+			  {
+				"key": "time",
+				"value": 20
+			  },
+			  {
+				"key": "energy",
+				"value": "--"
+			  },
+			  {
+				"key": "motivation",
+				"value": "--"
+			  },
+			  {
+				"key": "progress",
+				"value": "+"
+			  },
+			  {
+				"key": "originality",
+				"value": "--"
+			  }
+			]
+		  },
+		  {
+			"text": "EV_57_DE_2",
+			"consequences": [
+			  {
+				"key": "originality",
+				"value": "++"
+			  },
+			  {
+				"key": "energy",
+				"value": "-"
+			  },
+			  {
+				"key": "motivation",
+				"value": "+"
+			  },
+			  {
+				"key": "progress",
+				"value": "++"
+			  },
+			  {
+				"key": "reputation",
+				"value": "-"
+			  }
+			]
+		  },
+		  {
+			"text": "EV_57_DE_3",
+			"consequences": [
+			  {
+				"key": "originality",
+				"value": "-"
+			  },
+			  {
+				"key": "progress",
+				"value": "+"
+			  },
+			  {
+				"key": "reputation",
+				"value": "+"
+			  },
+			  {
+				"key": "time",
+				"value": 20
+			  }
+			]
+		  }
+		]
+	},
+	{
+		"event": "EV_58",
+		"decisions": [
+		  {
+			"text": "EV_58_DE_1",
+			"consequences": [
+			  {
+				"key": "money",
+				"value": -50
+			  },
+			  {
+				"key": "time",
+				"value": 10
+			  },
+			  {
+				"key": "motivation",
+				"value": "-"
+			  },
+			  {
+				"key": "progress",
+				"value": "+"
+			  },
+			  {
+				"key": "originality",
+				"value": "-"
+			  },
+			  {
+				"key": "reputation",
+				"value": "-"
+			  }
+			]
+		  },
+		  {
+			"text": "EV_58_DE_2",
+			"consequences": [
+			  {
+				"key": "energy",
+				"value": "--"
+			  },
+			  {
+				"key": "originality",
+				"value": "+"
+			  },
+			  {
+				"key": "reputation",
+				"value": "+"
+			  }
+			]
+		  },
+		  {
+			"text": "EV_58_DE_3",
+			"consequences": [
+			  {
+				"key": "reputation",
+				"value": "++"
+			  },
+			  {
+				"key": "time",
+				"value": 10
+			  },
+			  {
+				"key": "progress",
+				"value": "+"
+			  },
+			  {
+				"key": "energy",
+				"value": "-"
+			  },
+			  {
+				"key": "motivation",
+				"value": "+"
+			  }
+			]
+		  }
+		]
+	},
+	{
+		"event": "EV_59",
+		"decisions": [
+		  {
+			"text": "EV_59_DE_1",
+			"consequences": [
+			  {
+				"key": "time",
+				"value": 10
+			  },
+			  {
+				"key": "energy",
+				"value": "--"
+			  },
+			  {
+				"key": "motivation",
+				"value": "-"
+			  },
+			  {
+				"key": "progress",
+				"value": "--"
+			  },
+			  {
+				"key": "reputation",
+				"value": "--"
+			  }
+			]
+		  },
+		  {
+			"text": "EV_59_DE_2",
+			"consequences": [
+			  {
+				"key": "progress",
+				"value": "++"
+			  }
+			]
+		  },
+		  {
+			"text": "EV_59_DE_3",
+			"consequences": [
+			  {
+				"key": "time",
+				"value": 10
+			  },
+			  {
+				"key": "motivation",
+				"value": "++"
+			  },
+			  {
+				"key": "progress",
+				"value": "-"
+			  },
+			  {
+				"key": "reputation",
+				"value": "-"
+			  }
+			]
+		  }
+		]
+	},
+	{
+		"event": "EV_60",
+		"decisions": [
+		  {
+			"text": "EV_60_DE_1",
+			"consequences": [
+			  {
+				"key": "energy",
+				"value": "--"
+			  },
+			  {
+				"key": "time",
+				"value": 10
+			  },
+			  {
+				"key": "reputation",
+				"value": "++"
+			  },
+			  {
+				"key": "progress",
+				"value": "-"
+			  },
+			  {
+				"key": "originality",
+				"value": "-"
+			  }
+			]
+		  },
+		  {
+			"text": "EV_60_DE_2",
+			"consequences": [
+			  {
+				"key": "progress",
+				"value": "++"
+			  },
+			  {
+				"key": "energy",
+				"value": "+"
+			  },
+			  {
+				"key": "motivation",
+				"value": "++"
+			  },
+			  {
+				"key": "reputation",
+				"value": "++"
+			  }
+			]
+		  },
+		  {
+			"text": "EV_60_DE_3",
+			"consequences": [
+			  {
+				"key": "energy",
+				"value": "-"
+			  },
+			  {
+				"key": "motivation",
+				"value": "-"
+			  },
+			  {
+				"key": "reputation",
+				"value": "--"
+			  }
+			]
+		  }
+		]
+	},
+	{
+		"event": "EV_61",
+		"decisions": [
+		  {
+			"text": "EV_61_DE_1",
+			"consequences": [
+			  {
+				"key": "time",
+				"value": 10
+			  },
+			  {
+				"key": "energy",
+				"value": "-"
+			  },
+			  {
+				"key": "originality",
+				"value": "+"
+			  },
+			  {
+				"key": "progress",
+				"value": "+"
+			  }
+			]
+		  },
+		  {
+			"text": "EV_61_DE_2",
+			"consequences": [
+			  {
+				"key": "originality",
+				"value": "-"
+			  },
+			  {
+				"key": "reputation",
+				"value": "-"
+			  },
+			  {
+				"key": "motivation",
+				"value": "-"
+			  },
+			  {
+				"key": "progress",
+				"value": "++"
+			  }
+			]
+		  },
+		  {
+			"text": "EV_61_DE_3",
+			"consequences": [
+			  {
+				"key": "reputation",
+				"value": "++"
+			  },
+			  {
+				"key": "progress",
+				"value": "+"
+			  },
+			  {
+				"key": "time",
+				"value": 10
+			  },
+			  {
+				"key": "energy",
+				"value": "-"
+			  }
+			]
+		  }
+		]
+	},
+	{
+		"event": "EV_62",
+		"decisions": [
+		  {
+			"text": "EV_62_DE_1",
+			"consequences": [
+			  {
+				"key": "time",
+				"value": 10
+			  },
+			  {
+				"key": "energy",
+				"value": "--"
+			  },
+			  {
+				"key": "reputation",
+				"value": "+"
+			  },
+			  {
+				"key": "progress",
+				"value": "-"
+			  }
+			]
+		  },
+		  {
+			"text": "EV_62_DE_2",
+			"consequences": [
+			  {
+				"key": "progress",
+				"value": "++"
+			  },
+			  {
+				"key": "reputation",
+				"value": "-"
+			  },
+			  {
+				"key": "motivation",
+				"value": "-"
+			  }
+			]
+		  },
+		  {
+			"text": "EV_62_DE_3",
+			"consequences": [
+			  {
+				"key": "time",
+				"value": 30
+			  },
+			  {
+				"key": "progress",
+				"value": "-"
+			  },
+			  {
+				"key": "originality",
+				"value": "++"
+			  },
+			  {
+				"key": "reputation",
+				"value": "++"
+			  }
+			]
+		  }
+		]
+	},
+	{
+		"event": "EV_63",
+		"decisions": [
+		  {
+			"text": "EV_63_DE_1",
+			"consequences": [
+			  {
+				"key": "time",
+				"value": 10
+			  },
+			  {
+				"key": "energy",
+				"value": "-"
+			  },
+			  {
+				"key": "motivation",
+				"value": "++"
+			  },
+			  {
+				"key": "progress",
+				"value": "++"
+			  },
+			  {
+				"key": "originality",
+				"value": "+"
+			  }
+			]
+		  },
+		  {
+			"text": "EV_63_DE_2",
+			"consequences": [
+			  {
+				"key": "originality",
+				"value": "++"
+			  },
+			  {
+				"key": "energy",
+				"value": "-"
+			  },
+			  {
+				"key": "motivation",
+				"value": "-"
+			  },
+			  {
+				"key": "progress",
+				"value": "+"
+			  }
+			]
+		  },
+		  {
+			"text": "EV_63_DE_3",
+			"consequences": [
+			  {
+				"key": "energy",
+				"value": "-"
+			  },
+			  {
+				"key": "reputation",
+				"value": "--"
+			  }
+			]
+		  }
+		]
+	},
+	{
+		"event": "EV_64",
+		"decisions": [
+		  {
+			"text": "EV_64_DE_1",
+			"consequences": [
+			  {
+				"key": "time",
+				"value": 20
+			  },
+			  {
+				"key": "originality",
+				"value": "-"
+			  },
+			  {
+				"key": "energy",
+				"value": "-"
+			  },
+			  {
+				"key": "progress",
+				"value": "+"
+			  }
+			]
+		  },
+		  {
+			"text": "EV_64_DE_2",
+			"consequences": [
+			  {
+				"key": "reputation",
+				"value": "+"
+			  },
+			  {
+				"key": "progress",
+				"value": "++"
+			  }
+			]
+		  },
+		  {
+			"text": "EV_64_DE_3",
+			"consequences": [
+			  {
+				"key": "time",
+				"value": 30
+			  },
+			  {
+				"key": "progress",
+				"value": "+"
+			  },
+			  {
+				"key": "originality",
+				"value": "--"
+			  },
+			  {
+				"key": "reputation",
+				"value": "--"
+			  }
+			]
+		  }
+		]
+	},
+	{
+		"event": "EV_65",
+		"decisions": [
+		  {
+			"text": "EV_65_DE_1",
+			"consequences": [
+			  {
+				"key": "energy",
+				"value": "++"
+			  },
+			  {
+				"key": "motivation",
+				"value": "++"
+			  },
+			  {
+				"key": "progress",
+				"value": "++"
+			  }
+			]
+		  },
+		  {
+			"text": "EV_65_DE_2",
+			"consequences": [
+			  {
+				"key": "progress",
+				"value": "++"
+			  },
+			  {
+				"key": "energy",
+				"value": "-"
+			  },
+			  {
+				"key": "motivation",
+				"value": "--"
+			  }
+			]
+		  },
+		  {
+			"text": "EV_65_DE_3",
+			"consequences": [
+			  {
+				"key": "time",
+				"value": 10
+			  },
+			  {
+				"key": "originality",
+				"value": "+"
+			  },
+			  {
+				"key": "reputation",
+				"value": "++"
+			  },
+			  {
+				"key": "energy",
+				"value": "-"
+			  }
+			]
+		  }
+		]
+	},
+	{
+		"event": "EV_66",
+		"decisions": [
+		  {
+			"text": "EV_66_DE_1",
+			"consequences": [
+			  {
+				"key": "originality",
+				"value": "++"
+			  },
+			  {
+				"key": "energy",
+				"value": "--"
+			  },
+			  {
+				"key": "motivation",
+				"value": "++"
+			  },
+			  {
+				"key": "progress",
+				"value": "+"
+			  },
+			  {
+				"key": "time",
+				"value": "30"
+			  }
+			]
+		  },
+		  {
+			"text": "EV_66_DE_2",
+			"consequences": [
+			  {
+				"key": "progress",
+				"value": "+"
+			  },
+			  {
+				"key": "energy",
+				"value": "-"
+			  },
+			  {
+				"key": "motivation",
+				"value": "--"
+			  }
+			]
+		  },
+		  {
+			"text": "EV_66_DE_3",
+			"consequences": [
+			  {
+				"key": "originality",
+				"value": "-"
+			  },
+			  {
+				"key": "progress",
+				"value": "+"
+			  },
+			  {
+				"key": "reputation",
+				"value": "--"
+			  },
+			  {
+				"key": "time",
+				"value": 20
+			  }
+			]
+		  }
+		]
+	},
+	{
+		"event": "EV_67",
+		"decisions": [
+		  {
+			"text": "EV_67_DE_1",
+			"consequences": [
+			  {
+				"key": "originality",
+				"value": "-"
+			  },
+			  {
+				"key": "motivation",
+				"value": "+"
+			  },
+			  {
+				"key": "progress",
+				"value": "+"
+			  }
+			]
+		  },
+		  {
+			"text": "EV_67_DE_2",
+			"consequences": [
+			  {
+				"key": "originality",
+				"value": "+"
+			  },
+			  {
+				"key": "energy",
+				"value": "-"
+			  },
+			  {
+				"key": "reputation",
+				"value": "--"
+			  }
+			]
+		  },
+		  {
+			"text": "EV_67_DE_3",
+			"consequences": [
+			  {
+				"key": "energy",
+				"value": "-"
+			  },
+			  {
+				"key": "reputation",
+				"value": "-"
+			  },
+			  {
+				"key": "progress",
+				"value": "-"
+			  }
+			]
+		  }
+		]
+	},
+	{
+		"event": "EV_68",
+		"decisions": [
+		  {
+			"text": "EV_68_DE_1",
+			"consequences": [
+			  {
+				"key": "hunger",
+				"value": "++"
+			  },
+			  {
+				"key": "time",
+				"value": 10
+			  },
+			  {
+				"key": "motivation",
+				"value": "--"
+			  },
+			  {
+				"key": "reputation",
+				"value": "--"
+			  }
+			]
+		  },
+		  {
+			"text": "EV_68_DE_2",
+			"consequences": [
+			  {
+				"key": "time",
+				"value": 20
+			  },
+			  {
+				"key": "hunger",
+				"value": "++"
+			  },
+			  {
+				"key": "energy",
+				"value": "++"
+			  },
+			  {
+				"key": "progress",
+				"value": "--"
+			  }
+			]
+		  },
+		  {
+			"text": "EV_68_DE_3",
+			"consequences": [
+			  {
+				"key": "hunger",
+				"value": "--"
+			  },
+			  {
+				"key": "time",
+				"value": 90
+			  }
+			]
+		  }
+		]
+	},
+	{
+		"event": "EV_69",
+		"decisions": [
+		  {
+			"text": "EV_69_DE_1",
+			"consequences": [
+			  {
+				"key": "originality",
+				"value": "-"
+			  },
+			  {
+				"key": "energy",
+				"value": "-"
+			  },
+			  {
+				"key": "motivation",
+				"value": "--"
+			  }
+			]
+		  },
+		  {
+			"text": "EV_69_DE_2",
+			"consequences": [
+			  {
+				"key": "progress",
+				"value": "--"
+			  },
+			  {
+				"key": "energy",
+				"value": "--"
+			  },
+			  {
+				"key": "motivation",
+				"value": "--"
+			  },
+			  {
+				"key": "originality",
+				"value": "+"
+			  },
+			  {
+				"key": "time",
+				"value": 60
+			  }
+			]
+		  },
+		  {
+			"text": "EV_69_DE_3",
+			"consequences": [
+			  {
+				"key": "time",
+				"value": 45
+			  },
+			  {
+				"key": "progress",
+				"value": "+"
+			  },
+			  {
+				"key": "energy",
+				"value": "-"
+			  },
+			  {
+				"key": "motivation",
+				"value": "--"
+			  }
+			]
+		  }
+		]
+	},
+	{
+		"event": "EV_70",
+		"decisions": [
+		  {
+			"text": "EV_70_DE_1",
+			"consequences": [
+			  {
+				"key": "time",
+				"value": 30
+			  },
+			  {
+				"key": "energy",
+				"value": "++"
+			  },
+			  {
+				"key": "motivation",
+				"value": "++"
+			  },
+			  {
+				"key": "progress",
+				"value": "--"
+			  }
+			]
+		  },
+		  {
+			"text": "EV_70_DE_2",
+			"consequences": [
+			  {
+				"key": "progress",
+				"value": "+"
+			  },
+			  {
+				"key": "energy",
+				"value": "--"
+			  },
+			  {
+				"key": "motivation",
+				"value": "-"
+			  }
+			]
+		  },
+		  {
+			"text": "EV_70_DE_3",
+			"consequences": [
+			  {
+				"key": "motivation",
+				"value": "-"
+			  },
+			  {
+				"key": "progress",
+				"value": "++"
+			  }
+			]
+		  }
+		]
+	},
+	{
+		"event": "EV_71",
+		"decisions": [
+		  {
+			"text": "EV_71_DE_1",
+			"consequences": [
+			  {
+				"key": "energy",
+				"value": "--"
+			  },
+			  {
+				"key": "motivation",
+				"value": "--"
+			  },
+			  {
+				"key": "progress",
+				"value": "++"
+			  },
+			  {
+				"key": "time",
+				"value": 45
+			  }
+			]
+		  },
+		  {
+			"text": "EV_71_DE_2",
+			"consequences": [
+			  {
+				"key": "progress",
+				"value": "++"
+			  },
+			  {
+				"key": "energy",
+				"value": "++"
+			  },
+			  {
+				"key": "motivation",
+				"value": "++"
+			  }
+			]
+		  },
+		  {
+			"text": "EV_71_DE_3",
+			"consequences": [
+			  {
+				"key": "energy",
+				"value": "--"
+			  },
+			  {
+				"key": "motivation",
+				"value": "--"
+			  },
+			  {
+				"key": "progress",
+				"value": "-"
+			  }
+			]
+		  }
+		]
+	},
+	{
+		"event": "EV_72",
+		"decisions": [
+		  {
+			"text": "EV_72_DE_1",
+			"consequences": [
+			  {
+				"key": "reputation",
+				"value": "-"
+			  },
+			  {
+				"key": "energy",
+				"value": "-"
+			  },
+			  {
+				"key": "motivation",
+				"value": "+"
+			  },
+			  {
+				"key": "progress",
+				"value": "++"
+			  }
+			]
+		  },
+		  {
+			"text": "EV_72_DE_2",
+			"consequences": [
+			  {
+				"key": "time",
+				"value": 20
+			  },
+			  {
+				"key": "progress",
+				"value": "-"
+			  },
+			  {
+				"key": "motivation",
+				"value": "-"
+			  }
+			]
+		  },
+		  {
+			"text": "EV_72_DE_3",
+			"consequences": [
+			  {
+				"key": "motivation",
+				"value": "++"
+			  },
+			  {
+				"key": "progress",
+				"value": "--"
+			  },
+			  {
+				"key": "reputation",
+				"value": "++"
+			  },
+			  {
+				"key": "time",
+				"value": 60
+			  }
+			]
+		  }
+		]
+	},
+	{
+		"event": "EV_73",
+		"decisions": [
+		  {
+			"text": "EV_73_DE_1",
+			"consequences": [
+			  {
+				"key": "time",
+				"value": 30
+			  },
+			  {
+				"key": "energy",
+				"value": "-"
+			  },
+			  {
+				"key": "motivation",
+				"value": "++"
+			  },
+			  {
+				"key": "reputation",
+				"value": "++"
+			  }
+			]
+		  },
+		  {
+			"text": "EV_73_DE_2",
+			"consequences": [
+			  {
+				"key": "progress",
+				"value": "++"
+			  },
+			  {
+				"key": "energy",
+				"value": "-"
+			  },
+			  {
+				"key": "motivation",
+				"value": "-"
+			  },
+			  {
+				"key": "reputation",
+				"value": "--"
+			  }
+			]
+		  },
+		  {
+			"text": "EV_73_DE_3",
+			"consequences": [
+			  {
+				"key": "motivation",
+				"value": "+"
+			  },
+			  {
+				"key": "progress",
+				"value": "++"
+			  },
+			  {
+				"key": "time",
+				"value": 10
+			  },
+			  {
+				"key": "reputation",
+				"value": "+"
+			  }
+			]
+		  }
+		]
+	},
+	{
+		"event": "EV_74",
+		"decisions": [
+		  {
+			"text": "EV_74_DE_1",
+			"consequences": [
+			  {
+				"key": "energy",
+				"value": "-"
+			  },
+			  {
+				"key": "motivation",
+				"value": "--"
+			  }
+			]
+		  },
+		  {
+			"text": "EV_74_DE_2",
+			"consequences": [
+			  {
+				"key": "hunger",
+				"value": "+"
+			  },
+			  {
+				"key": "energy",
+				"value": "+"
+			  },
+			  {
+				"key": "motivation",
+				"value": "+"
+			  }
+			]
+		  },
+		  {
+			"text": "EV_74_DE_3",
+			"consequences": [
+			  {
+				"key": "energy",
+				"value": "--"
+			  },
+			  {
+				"key": "progress",
+				"value": "+"
+			  },
+			  {
+				"key": "motivation",
+				"value": "++"
+			  }
+			]
+		  }
+		]
+	},
+	{
+		"event": "EV_75",
+		"decisions": [
+		  {
+			"text": "EV_75_DE_1",
+			"consequences": [
+			  {
+				"key": "time",
+				"value": 30
+			  },
+			  {
+				"key": "energy",
+				"value": "--"
+			  },
+			  {
+				"key": "motivation",
+				"value": "--"
+			  },
+			  {
+				"key": "progress",
+				"value": "--"
+			  }
+			]
+		  },
+		  {
+			"text": "EV_75_DE_2",
+			"consequences": [
+			  {
+				"key": "hunger",
+				"value": "+"
+			  },
+			  {
+				"key": "energy",
+				"value": "+"
+			  },
+			  {
+				"key": "motivation",
+				"value": "+"
+			  }
+			]
+		  },
+		  {
+			"text": "EV_75_DE_3",
+			"consequences": [
+			  {
+				"key": "time",
+				"value": 30
+			  },
+			  {
+				"key": "progress",
+				"value": "-"
+			  },
+			  {
+				"key": "energy",
+				"value": "-"
+			  },
+			  {
+				"key": "motivation",
+				"value": "+"
+			  },
+			  {
+				"key": "reputation",
+				"value": "++"
+			  }
+			]
+		  }
+		]
+	},
+	{
+		"event": "EV_76",
+		"decisions": [
+		  {
+			"text": "EV_76_DE_1",
+			"consequences": [
+			  {
+				"key": "time",
+				"value": 10
+			  },
+			  {
+				"key": "energy",
+				"value": "-"
+			  },
+			  {
+				"key": "motivation",
+				"value": "--"
+			  },
+			  {
+				"key": "progress",
+				"value": "+"
+			  }
+			]
+		  },
+		  {
+			"text": "EV_76_DE_2",
+			"consequences": [
+			  {
+				"key": "time",
+				"value": 10
+			  },
+			  {
+				"key": "energy",
+				"value": "+"
+			  },
+			  {
+				"key": "motivation",
+				"value": "-"
+			  },
+			  {
+				"key": "progress",
+				"value": "-"
+			  }
+			]
+		  },
+		  {
+			"text": "EV_76_DE_3",
+			"consequences": [
+			  {
+				"key": "motivation",
+				"value": "--"
+			  },
+			  {
+				"key": "progress",
+				"value": "++"
+			  }
+			]
+		  }
+		]
+	},
+	{
+		"event": "EV_77",
+		"decisions": [
+		  {
+			"text": "EV_77_DE_1",
+			"consequences": [
+			  {
+				"key": "time",
+				"value": 40
+			  },
+			  {
+				"key": "energy",
+				"value": "--"
+			  },
+			  {
+				"key": "motivation",
+				"value": "--"
+			  },
+			  {
+				"key": "progress",
+				"value": "--"
+			  }
+			]
+		  },
+		  {
+			"text": "EV_77_DE_2",
+			"consequences": [
+			  {
+				"key": "motivation",
+				"value": "--"
+			  },
+			  {
+				"key": "progress",
+				"value": "++"
+			  }
+			]
+		  },
+		  {
+			"text": "EV_77_DE_3",
+			"consequences": [
+			  {
+				"key": "energy",
+				"value": "--"
+			  },
+			  {
+				"key": "progress",
+				"value": "+"
+			  }
+			]
+		  }
+		]
+	},
+	{
+		"event": "EV_78",
+		"decisions": [
+		  {
+			"text": "EV_78_DE_1",
+			"consequences": [
+			  {
+				"key": "time",
+				"value": 45
+			  },
+			  {
+				"key": "energy",
+				"value": "++"
+			  },
+			  {
+				"key": "motivation",
+				"value": "++"
+			  },
+			  {
+				"key": "progress",
+				"value": "--"
+			  }
+			]
+		  },
+		  {
+			"text": "EV_78_DE_2",
+			"consequences": [
+			  {
+				"key": "time",
+				"value": "20"
+			  },
+			  {
+				"key": "energy",
+				"value": "+"
+			  },
+			  {
+				"key": "progress",
+				"value": "+"
+			  }
+			]
+		  },
+		  {
+			"text": "EV_78_DE_3",
+			"consequences": [
+			  {
+				"key": "energy",
+				"value": "--"
+			  },
+			  {
+				"key": "progress",
+				"value": "+"
+			  },
+			  {
+				"key": "motivation",
+				"value": "--"
+			  }
+			]
+		  }
+		]
+	},
+	{
+		"event": "EV_79",
+		"decisions": [
+		  {
+			"text": "EV_79_DE_1",
+			"consequences": [
+			  {
+				"key": "time",
+				"value": "10"
+			  },
+			  {
+				"key": "energy",
+				"value": "++"
+			  }
+			]
+		  },
+		  {
+			"text": "EV_79_DE_2",
+			"consequences": [
+			  {
+				"key": "energy",
+				"value": "--"
+			  },
+			  {
+				"key": "progress",
+				"value": "+"
+			  },
+			  {
+				"key": "motivation",
+				"value": "-"
+			  }
+			]
+		  },
+		  {
+			"text": "EV_79_DE_3",
+			"consequences": [
+			  {
+				"key": "energy",
+				"value": "++"
+			  },
+			  {
+				"key": "progress",
+				"value": "++"
+			  },
+			  {
+				"key": "motivation",
+				"value": "++"
+			  },
+			  {
+				"key": "reputation",
+				"value": "--"
+			  },
+			  {
+				"key": "originality",
+				"value": "++"
+			  }
+			]
+		  }
+		]
+	},{
+		"event": "EV_80",
+		"decisions": [
+		  {
+			"text": "EV_80_DE_1",
+			"consequences": [
+			  {
+				"key": "energy",
+				"value": "-"
+			  },
+			  {
+				"key": "motivation",
+				"value": "--"
+			  },
+			  {
+				"key": "progress",
+				"value": "++"
+			  },
+			  {
+				"key": "originality",
+				"value": "--"
+			  },
+			  {
+				"key": "reputation",
+				"value": "+"
+			  }
+			]
+		  },
+		  {
+			"text": "EV_80_DE_2",
+			"consequences": [
+			  {
+				"key": "progress",
+				"value": "+"
+			  },
+			  {
+				"key": "energy",
+				"value": "-"
+			  },
+			  {
+				"key": "motivation",
+				"value": "+"
+			  }
+			]
+		  },
+		  {
+			"text": "EV_80_DE_3",
+			"consequences": [
+			  {
+				"key": "energy",
+				"value": "-"
+			  },
+			  {
+				"key": "motivation",
+				"value": "++"
+			  },
+			  {
+				"key": "progress",
+				"value": "++"
+			  },
+			  {
+				"key": "originality",
+				"value": "++"
+			  },
+			  {
+				"key": "reputation",
+				"value": "++"
+			  }
+			]
+		  }
+		]
+	}
+  ]
+}

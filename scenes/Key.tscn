@@ -1,0 +1,35 @@
+[gd_scene load_steps=5 format=3 uid="uid://but1j7botw8oj"]
+
+[ext_resource type="Script" path="res://scripts/Key.gd" id="1_v81gs"]
+[ext_resource type="Theme" uid="uid://qhg2fntqieb0" path="res://config/FontTheme.tres" id="2_dygei"]
+[ext_resource type="Texture2D" uid="uid://b3vrywi86mh5q" path="res://art/circulo_minigame_1.png" id="2_vwovo"]
+
+[sub_resource type="CircleShape2D" id="CircleShape2D_1ktx5"]
+radius = 37.2156
+
+[node name="Key" type="RigidBody2D"]
+gravity_scale = 0.0
+script = ExtResource("1_v81gs")
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+scale = Vector2(0.5, 0.5)
+texture = ExtResource("2_vwovo")
+
+[node name="Label" type="Label" parent="Sprite2D"]
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_left = -34.0
+offset_top = -121.0
+offset_right = -95.0
+offset_bottom = -20.0
+grow_horizontal = 2
+grow_vertical = 2
+theme = ExtResource("2_dygei")
+theme_override_font_sizes/font_size = 120
+text = "A"
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+shape = SubResource("CircleShape2D_1ktx5")
